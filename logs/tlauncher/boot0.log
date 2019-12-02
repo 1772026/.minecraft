@@ -1,0 +1,135 @@
+2019-11-29 16:54:49,199 main 
+2019-11-29 16:54:49,199 main -------------------------------------------------------------------
+2019-11-29 16:54:49,464 main [SimpleConfiguration] Cannot store values!
+java.io.FileNotFoundException: C:\Users\Ste-PC\AppData\Roaming\.tlauncher\tlauncher-2.0.properties (The system cannot find the path specified)
+at java.io.FileOutputStream.open0(Native Method)
+at java.io.FileOutputStream.open(Unknown Source)
+at java.io.FileOutputStream.<init>(Unknown Source)
+at java.io.FileOutputStream.<init>(Unknown Source)
+at org.tlauncher.tlauncher.configuration.SimpleConfiguration.save(SimpleConfiguration.java:231)
+at org.tlauncher.tlauncher.configuration.SimpleConfiguration.store(SimpleConfiguration.java:236)
+at org.tlauncher.tlauncher.configuration.SimpleConfiguration.set(SimpleConfiguration.java:80)
+at org.tlauncher.tlauncher.rmo.Bootstrapper.valitdateKB4515384(Bootstrapper.java:148)
+at org.tlauncher.tlauncher.rmo.Bootstrapper.main(Bootstrapper.java:103)
+
+2019-11-29 16:54:50,807 main [Downloader2] Loaded configuration: normal
+2019-11-29 16:54:51,882 MD#1 [Downloader2] Files in queue 1
+2019-11-29 16:54:51,882 MD#1 [Downloader2] Starting download 1 files...
+2019-11-29 16:54:52,144 DT#1#2 [D#1] >  https://securerepository.net/update/downloads/jre/windows/jre-8u51-windows-x64.zip 
+2019-11-29 16:55:59,327 DT#1#2 [D#1] >  Failed to download from:  https://securerepository.net/update/downloads/jre/windows/jre-8u51-windows-x64.zip
+java.net.SocketException: Connection reset
+at java.net.SocketInputStream.read(Unknown Source)
+at java.net.SocketInputStream.read(Unknown Source)
+at sun.security.ssl.InputRecord.readFully(Unknown Source)
+at sun.security.ssl.InputRecord.readV3Record(Unknown Source)
+at sun.security.ssl.InputRecord.read(Unknown Source)
+at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+at sun.security.ssl.AppInputStream.read(Unknown Source)
+at java.io.BufferedInputStream.read1(Unknown Source)
+at java.io.BufferedInputStream.read(Unknown Source)
+at sun.net.www.MeteredStream.read(Unknown Source)
+at java.io.FilterInputStream.read(Unknown Source)
+at sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(Unknown Source)
+at java.io.BufferedInputStream.read1(Unknown Source)
+at java.io.BufferedInputStream.read(Unknown Source)
+at java.io.FilterInputStream.read(Unknown Source)
+at org.tlauncher.tlauncher.downloader.DownloaderThread.downloadURL(DownloaderThread.java:213)
+at org.tlauncher.tlauncher.downloader.DownloaderThread.download(DownloaderThread.java:153)
+at org.tlauncher.tlauncher.downloader.DownloaderThread.run(DownloaderThread.java:92)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.tlauncher.downloader.DownloaderThread.<init>(DownloaderThread.java:41)
+at org.tlauncher.tlauncher.downloader.Downloader.sortOut(Downloader.java:243)
+at org.tlauncher.tlauncher.downloader.Downloader.run(Downloader.java:194)
+
+2019-11-29 16:55:59,327 DT#1#2 [D#1] >  http://dl2.tlrepo.com/client/jre/windows/jre-8u51-windows-x64.zip 
+2019-11-29 16:56:50,880 DT#1#2 path C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51_temp
+2019-11-29 16:56:50,884 DT#1#2 rename from C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51_temp to C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51
+2019-11-29 16:56:50,909 main [Bootstrapper] createLauncher
+2019-11-29 16:56:50,912 main path C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51
+2019-11-29 16:56:50,912 main [Bootstrapper] choose jvm:C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-11-29 16:56:50,913 main [Bootstrapper] validate files
+2019-11-29 16:56:50,916 main [Bootstrapper] end validated files
+2019-11-29 16:56:50,916 main [Bootstrapper] Starting launcher...
+2019-11-29 16:56:51,475 Thread-3 > [TLAUNCHER][STATIC] initialize inner config
+2019-11-29 16:56:51,538 Thread-3 > [Loading] INITIALIZING
+2019-11-29 16:56:54,822 Thread-3 > Starting TLauncher 2.67 RELEASE
+2019-11-29 16:56:54,822 Thread-3 > For more information, visit https://tlauncher.org/
+2019-11-29 16:56:54,822 Thread-3 > Startup time: Nov 29, 2019 4:56:54 PM
+2019-11-29 16:56:54,822 Thread-3 > ---
+2019-11-29 16:56:55,583 Thread-3 > [Loading] LOADING_CONFIGURATION
+2019-11-29 16:56:55,584 Thread-3 > Creating configuration file...
+2019-11-29 16:56:55,584 Thread-3 > Loading configuration from file: C:\Users\Ste-PC\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+2019-11-29 16:56:55,634 Thread-3 > [Configuration] Constant values: {}
+2019-11-29 16:56:55,634 Thread-3 > [Configuration] Key "minecraft.versions.release" is invalid!
+2019-11-29 16:56:55,634 Thread-3 > [Configuration] Key "minecraft.versions.sub.old_release" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "minecraft.onlaunch" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "gui.notice.ad_server" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "gui.notice.ad_other" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "gui.settings.servers.recommendation" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "minecraft.gamedir" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "gui.statistics.checkbox" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "minecraft.versions.sub.remote" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "gui.console.width" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "gui.console.height" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "minecraft.versions.modified" is invalid!
+2019-11-29 16:56:55,635 Thread-3 > [Configuration] Key "gui.console.x" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "gui.settings.guard.checkbox" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "minecraft.memory.ram2" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "gui.console.y" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "gui.console" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "minecraft.size" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "client" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "connection" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "minecraft.fullscreen" is invalid!
+2019-11-29 16:56:55,636 Thread-3 > [Configuration] Key "gui.notice.ad_youtube" is invalid!
+2019-11-29 16:56:55,654 Thread-3 > [Configuration] Selected locale is not supported, rolling back to default one
+2019-11-29 16:56:55,659 Thread-3 > Machine info: -------------------------------------------------------
+2019-11-29 16:56:55,659 Thread-3 > Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 12162 MB RAM
+2019-11-29 16:56:55,659 Thread-3 > java path=C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-11-29 16:56:55,660 Thread-3 > -------------------------------------------------------
+2019-11-29 16:56:55,660 Thread-3 > Selected locale: en_US
+2019-11-29 16:56:55,699 Thread-3 > [Loading] LOADING_CONSOLE
+2019-11-29 16:56:55,957 Thread-3 > [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2019-11-29 16:56:56,171 Thread-3 > 
+2019-11-29 16:56:56,396 Thread-3 > [Downloader2] Loaded configuration: good
+2019-11-29 16:56:56,562 Thread-3 > [Updater] Requesting an update...
+2019-11-29 16:56:56,564 Thread-3 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-11-29 16:56:56,565 Thread-3 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.67&client=49fddef2-7fd7-4e1b-b03a-a2418f93b47d
+2019-11-29 16:56:57,182 Thread-3 > [Updater] Request time: 617 ms
+2019-11-29 16:56:57,182 Thread-3 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-11-29 16:56:57,843 Thread-3 > [Browser] Loading resources...
+2019-11-29 16:56:58,010 Thread-3 > [Browser] Loading background...
+2019-11-29 16:56:58,039 Thread-3 > [Browser] Cleaning up after loading:
+2019-11-29 16:56:58,039 Thread-3 > Starting garbage collector: 26 / 108 MB
+2019-11-29 16:56:58,089 Thread-3 > Garbage collector completed: 13 / 108 MB
+2019-11-29 16:56:58,090 Thread-3 > [Loading] LOADING_MANAGERS
+2019-11-29 16:56:58,094 Thread-3 > [LocalVersionList] Base directory: C:\Users\Ste-PC\AppData\Roaming\.minecraft
+2019-11-29 16:56:58,212 Thread-3 > [ProfileManager] Refreshing profiles from: C:\Users\Ste-PC\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2019-11-29 16:56:58,221 Thread-3 > [AdvertisingStatusObserver]  started to get ad information
+2019-11-29 16:56:58,221 Thread-3 > [AdvertisingStatusObserver]  finished to get add information
+2019-11-29 16:56:58,221 Thread-3 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.5.json
+2019-11-29 16:56:58,229 Thread-3 > [Loading] LOADING_WINDOW
+2019-11-29 16:56:58,296 Thread-3 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2019-11-29 16:56:58,301 Thread-3 > [Browser] Running in JavaFX Thread
+2019-11-29 16:56:58,301 Thread-3 > [Browser] Preparing JavaFX...
+2019-11-29 16:56:58,319 Thread-3 > [Loading] PREPARING_MAINPANE
+2019-11-29 16:56:58,464 Thread-3 > [Browser] Initializing...
+2019-11-29 16:56:58,639 Thread-3 > [REPO][SERVER_LIST_REPO] Success: Reached the repo in 410 ms.
+2019-11-29 16:57:00,070 Thread-3 > [Downloader2] Loaded configuration: good
+2019-11-29 16:57:00,130 Thread-3 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 1
+2019-11-29 16:57:00,131 Thread-3 > [Browser@343437018] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2019-11-29 16:57:00,255 Thread-3 > [Browser] add listens into server_choose
+2019-11-29 16:57:00,256 Thread-3 > [Browser] finished listens into server_choose
+2019-11-29 16:57:01,643 Thread-3 > [Loading] POSTINIT_GUI
+2019-11-29 16:57:01,643 Thread-3 > [Frame] Packing main frame...
+2019-11-29 16:57:01,778 Thread-3 > [Frame] Resizing main pane...
+2019-11-29 16:57:01,779 Thread-3 > Updater is already closed. Showing up...
+2019-11-29 16:57:01,779 Thread-3 > Visibility set.
+2019-11-29 16:57:01,782 Thread-3 > [Loading] REFRESHING_INFO
+2019-11-29 16:57:01,786 Thread-3 > [VersionManager] Refreshing versions remotely...
+2019-11-29 16:57:01,788 Thread-3 > [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2019-11-29 16:57:01,789 Thread-3 > Started! (6205 ms.)
+2019-11-29 16:57:01,790 Thread-3 > [Loading] SUCCESS
+2019-11-29 16:57:01,790 Thread-3 [Bootstrapper] I can be terminated now: 0

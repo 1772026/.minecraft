@@ -1,0 +1,85 @@
+{
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)",
+      "lastVersionId": "1.12.2",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "Saved": {
+      "name": "Saved",
+      "gameDir": "D:\\Game\\MINECRAFT\\.minecraft",
+      "lastVersionId": "1.12.2",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      }
+    }
+  },
+  "selectedProfile": "Saved",
+  "clientToken": "3d693d11-62db-45c7-8485-74ce6aa17f2a",
+  "authenticationDatabase": {
+    "14a0f0e6c0b8354e9af458ec35e2fa2c": {
+      "displayName": "ste",
+      "accessToken": "null",
+      "userid": "ste",
+      "uuid": "14a0f0e6-c0b8-354e-9af4-58ec35e2fa2c",
+      "username": "ste"
+    },
+    "3ab608c1368b311197257a01f0b8ec9e": {
+      "displayName": "t",
+      "accessToken": "null",
+      "userid": "t",
+      "uuid": "3ab608c1-368b-3111-9725-7a01f0b8ec9e",
+      "username": "t"
+    },
+    "ea9e14c72be43837be54b5e492ae4ab7": {
+      "displayName": "steven",
+      "accessToken": "null",
+      "userid": "steven",
+      "uuid": "ea9e14c7-2be4-3837-be54-b5e492ae4ab7",
+      "username": "steven"
+    },
+    "e956185a27d23d91b76571013e89d037": {
+      "displayName": "fbiste",
+      "accessToken": "null",
+      "userid": "fbiste",
+      "uuid": "e956185a-27d2-3d91-b765-71013e89d037",
+      "username": "fbiste"
+    },
+    "530fa97a357f3c1994d30c5c65c18fe8": {
+      "displayName": "test",
+      "accessToken": "null",
+      "userid": "test",
+      "uuid": "530fa97a-357f-3c19-94d3-0c5c65c18fe8",
+      "username": "test"
+    },
+    "c9941044e07830ec94e8fa5e02a30aab": {
+      "displayName": "y",
+      "accessToken": "null",
+      "userid": "y",
+      "uuid": "c9941044-e078-30ec-94e8-fa5e02a30aab",
+      "username": "y"
+    },
+    "9c2094f8f0913e64ac1d580101ba3b47": {
+      "displayName": "STE",
+      "accessToken": "null",
+      "userid": "STE",
+      "uuid": "9c2094f8-f091-3e64-ac1d-580101ba3b47",
+      "username": "STE"
+    },
+    "b61a87c8649f3c03baa2a6d3480d5216": {
+      "displayName": "TESTST",
+      "userid": "TESTST",
+      "uuid": "b61a87c8-649f-3c03-baa2-a6d3480d5216",
+      "username": "TESTST"
+    }
+  },
+  "selectedUser": "b61a87c8649f3c03baa2a6d3480d5216",
+  "launcherVersion": {
+    "name": "1.5",
+    "format": 16
+  }
+}

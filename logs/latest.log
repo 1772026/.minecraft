@@ -1,0 +1,198 @@
+[00:00:13] [main/INFO]: Loaded 216 advancements
+[00:02:13] [main/INFO]: Loaded 216 advancements
+[00:28:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11162, l='Island', x=-191.61, y=69.00, z=179.80]
+[00:29:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11304, l='Island', x=-195.05, y=69.00, z=179.80]
+[00:36:59] [Server thread/INFO]: Steven has made the advancement [Stone Age]
+[00:36:59] [main/INFO]: [CHAT] Steven has made the advancement [Stone Age]
+[00:36:59] [main/INFO]: Loaded 230 advancements
+[00:38:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12916, l='Island', x=-191.31, y=69.00, z=177.45]
+[00:38:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12929, l='Island', x=-197.61, y=69.00, z=177.58]
+[00:38:33] [main/INFO]: Loaded 248 advancements
+[00:38:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/13297, l='Island', x=-195.21, y=69.00, z=179.80]
+[00:42:25] [Server thread/INFO]: Saving and pausing game...
+[00:42:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:42:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:42:26] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:42:32] [Server thread/INFO]: Saving and pausing game...
+[00:42:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:42:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:42:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:43:13] [main/INFO]: Loaded 263 advancements
+[00:43:34] [Server thread/INFO]: Saving and pausing game...
+[00:43:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:43:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:43:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:44:43] [main/INFO]: Loaded 264 advancements
+[00:45:17] [Server thread/INFO]: Saving and pausing game...
+[00:45:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:45:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:45:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:45:38] [main/INFO]: Loaded 265 advancements
+[00:45:54] [main/INFO]: Loaded 266 advancements
+[00:45:59] [main/INFO]: Loaded 271 advancements
+[00:46:05] [main/INFO]: Loaded 274 advancements
+[00:46:18] [main/INFO]: Loaded 276 advancements
+[00:46:33] [main/INFO]: Loaded 290 advancements
+[00:46:54] [Server thread/INFO]: Saving and pausing game...
+[00:46:54] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:46:54] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:46:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:47:33] [main/INFO]: Loaded 292 advancements
+[00:48:00] [Server thread/INFO]: Saving and pausing game...
+[00:48:00] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:48:00] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:48:01] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:48:15] [main/INFO]: Loaded 353 advancements
+[00:48:40] [Server thread/INFO]: Saving and pausing game...
+[00:48:40] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:48:40] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:48:40] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:52:18] [Server thread/INFO]: Saving and pausing game...
+[00:52:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:52:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:52:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:53:19] [Server thread/INFO]: Saving and pausing game...
+[00:53:19] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:53:19] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:53:19] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:56:37] [main/INFO]: Loaded 353 advancements
+[00:59:53] [Server thread/INFO]: Saving and pausing game...
+[00:59:53] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:59:53] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:59:54] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:01:20] [main/INFO]: Loaded 353 advancements
+[01:01:28] [main/INFO]: Loaded 353 advancements
+[01:01:51] [Server thread/INFO]: Saving and pausing game...
+[01:01:51] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:01:51] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:01:51] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:04:32] [Server thread/INFO]: Saving and pausing game...
+[01:04:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:04:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:04:33] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:06:39] [main/INFO]: [CHAT] [Debug]: Key bindings:
+[01:06:39] [main/INFO]: [CHAT] F3 + A = Reload chunks
+[01:06:39] [main/INFO]: [CHAT] F3 + B = Show hitboxes
+[01:06:39] [main/INFO]: [CHAT] F3 + C = Copy location as /tp command, hold F3 + C to crash the game
+[01:06:39] [main/INFO]: [CHAT] F3 + D = Clear chat
+[01:06:39] [main/INFO]: [CHAT] F3 + F = Cycle render distance (Shift to invert)
+[01:06:39] [main/INFO]: [CHAT] F3 + G = Show chunk boundaries
+[01:06:39] [main/INFO]: [CHAT] F3 + H = Advanced tooltips
+[01:06:39] [main/INFO]: [CHAT] F3 + I = Copy entity or block data to clipboard
+[01:06:39] [main/INFO]: [CHAT] F3 + N = Cycle creative <-> spectator
+[01:06:39] [main/INFO]: [CHAT] F3 + P = Pause on lost focus
+[01:06:39] [main/INFO]: [CHAT] F3 + Q = Show this list
+[01:06:39] [main/INFO]: [CHAT] F3 + T = Reload resource packs
+[01:06:39] [main/INFO]: [CHAT] F3 + Esc = Pause without pause menu (if pausing is possible)
+[01:06:46] [main/INFO]: [CHAT] [Debug]: Key bindings:
+[01:06:46] [main/INFO]: [CHAT] F3 + A = Reload chunks
+[01:06:46] [main/INFO]: [CHAT] F3 + B = Show hitboxes
+[01:06:46] [main/INFO]: [CHAT] F3 + C = Copy location as /tp command, hold F3 + C to crash the game
+[01:06:46] [main/INFO]: [CHAT] F3 + D = Clear chat
+[01:06:46] [main/INFO]: [CHAT] F3 + F = Cycle render distance (Shift to invert)
+[01:06:46] [main/INFO]: [CHAT] F3 + G = Show chunk boundaries
+[01:06:46] [main/INFO]: [CHAT] F3 + H = Advanced tooltips
+[01:06:46] [main/INFO]: [CHAT] F3 + I = Copy entity or block data to clipboard
+[01:06:46] [main/INFO]: [CHAT] F3 + N = Cycle creative <-> spectator
+[01:06:46] [main/INFO]: [CHAT] F3 + P = Pause on lost focus
+[01:06:46] [main/INFO]: [CHAT] F3 + Q = Show this list
+[01:06:46] [main/INFO]: [CHAT] F3 + T = Reload resource packs
+[01:06:46] [main/INFO]: [CHAT] F3 + Esc = Pause without pause menu (if pausing is possible)
+[01:06:49] [Server thread/INFO]: Saving and pausing game...
+[01:06:49] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:06:49] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:06:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:06:55] [main/INFO]: [CHAT] Saved screenshot as 2019-12-03_01.06.55.png
+[01:06:59] [Server thread/INFO]: Steven fell from a high place
+[01:06:59] [main/INFO]: [CHAT] Steven fell from a high place
+[01:07:12] [main/INFO]: [CHAT] Unknown command
+[01:07:12] [main/INFO]: [CHAT] /tp<--[HERE]
+[01:13:05] [Server thread/INFO]: Saving and pausing game...
+[01:13:05] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:13:05] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:13:05] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:15:17] [Server thread/INFO]: Saving and pausing game...
+[01:15:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:15:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:15:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:18:54] [Server thread/INFO]: Steven has made the advancement [We Need to Go Deeper]
+[01:18:54] [main/INFO]: [CHAT] Steven has made the advancement [We Need to Go Deeper]
+[01:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5943ms or 118 ticks behind
+[01:18:54] [main/INFO]: Loaded 364 advancements
+[01:18:59] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[01:18:59] [main/INFO]: [CHAT] Steven was slain by Zombie Pigman
+[01:19:01] [Server thread/INFO]: Saving and pausing game...
+[01:19:01] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:19:01] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:19:02] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:23:38] [Server thread/INFO]: Steven fell from a high place
+[01:23:38] [main/INFO]: [CHAT] Steven fell from a high place
+[01:24:09] [Server thread/INFO]: Steven has made the advancement [Getting an Upgrade]
+[01:24:09] [main/INFO]: [CHAT] Steven has made the advancement [Getting an Upgrade]
+[01:24:09] [main/INFO]: Loaded 365 advancements
+[01:24:54] [main/INFO]: Loaded 366 advancements
+[01:27:38] [main/INFO]: Loaded 366 advancements
+[01:27:41] [Server thread/INFO]: Steven fell from a high place
+[01:27:41] [main/INFO]: [CHAT] Steven fell from a high place
+[01:28:48] [main/INFO]: Loaded 369 advancements
+[01:32:04] [main/INFO]: Loaded 371 advancements
+[01:32:07] [main/INFO]: Loaded 380 advancements
+[01:39:10] [main/WARN]: Received passengers for unknown entity
+[01:39:42] [main/WARN]: Received passengers for unknown entity
+[01:39:49] [Server thread/INFO]: Steven fell from a high place
+[01:39:49] [main/INFO]: [CHAT] Steven fell from a high place
+[01:40:57] [main/INFO]: Loaded 381 advancements
+[01:41:08] [Server thread/INFO]: Saving and pausing game...
+[01:41:08] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:41:08] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:41:08] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:41:53] [main/WARN]: Received passengers for unknown entity
+[01:41:53] [main/WARN]: Received passengers for unknown entity
+[01:42:44] [main/WARN]: Received passengers for unknown entity
+[01:43:24] [main/WARN]: Received passengers for unknown entity
+[01:43:30] [main/WARN]: Received passengers for unknown entity
+[01:43:45] [main/WARN]: Received passengers for unknown entity
+[01:44:00] [main/WARN]: Received passengers for unknown entity
+[01:44:10] [main/WARN]: Received passengers for unknown entity
+[01:44:23] [main/WARN]: Received passengers for unknown entity
+[01:45:02] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[01:45:02] [main/INFO]: [CHAT] Steven was slain by Zombie Pigman
+[01:45:41] [Server thread/INFO]: Steven fell from a high place
+[01:45:41] [main/INFO]: [CHAT] Steven fell from a high place
+[01:46:47] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/41770, l='Island', x=-85.64, y=88.08, z=18.85]
+[01:46:49] [main/WARN]: Received passengers for unknown entity
+[01:47:13] [main/WARN]: Received passengers for unknown entity
+[01:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:48:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[01:49:56] [Server thread/INFO]: Steven fell from a high place
+[01:49:56] [main/INFO]: [CHAT] Steven fell from a high place
+[01:51:48] [main/INFO]: Loaded 382 advancements
+[01:51:49] [Server thread/INFO]: Steven has made the advancement [A Seedy Place]
+[01:51:49] [main/INFO]: [CHAT] Steven has made the advancement [A Seedy Place]
+[01:51:49] [main/INFO]: Loaded 382 advancements
+[01:52:02] [main/INFO]: Loaded 384 advancements
+[01:52:35] [Server thread/INFO]: Steven has made the advancement [The Parrots and the Bats]
+[01:52:35] [main/INFO]: [CHAT] Steven has made the advancement [The Parrots and the Bats]
+[01:52:35] [main/INFO]: Loaded 384 advancements
+[01:54:08] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[01:54:23] [main/INFO]: Loaded 387 advancements
+[01:55:31] [Server thread/INFO]: Saving and pausing game...
+[01:55:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:55:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:55:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:55:32] [Server thread/INFO]: Steven lost connection: Disconnected
+[01:55:32] [Server thread/INFO]: Steven left the game
+[01:55:32] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[01:55:32] [Server thread/INFO]: Stopping server
+[01:55:32] [Server thread/INFO]: Saving players
+[01:55:32] [Server thread/INFO]: Saving worlds
+[01:55:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[01:55:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:55:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[01:55:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[01:55:33] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[01:55:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:55:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:55:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[01:55:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:55:34] [main/INFO]: Stopping!
