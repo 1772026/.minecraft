@@ -199,3 +199,68 @@
 [20:30:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
 [20:30:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
 [20:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+[20:30:32] [main/INFO]: Loaded 415 advancements
+[20:30:46] [Server thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[20:30:47] [Server thread/INFO]: Saving and pausing game...
+[20:30:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:30:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:30:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:30:54] [Server thread/INFO]: Changing view distance to 16, from 6
+[20:30:56] [Server thread/INFO]: Saving and pausing game...
+[20:30:56] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:30:56] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:30:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:31:01] [Server thread/INFO]: Changing view distance to 62, from 16
+[20:31:16] [Server thread/INFO]: Saving and pausing game...
+[20:31:16] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:31:16] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:31:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:31:28] [Server thread/INFO]: Changing view distance to 2, from 62
+[20:31:36] [Server thread/INFO]: Saving and pausing game...
+[20:31:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:31:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:31:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:33:09] [Server thread/INFO]: Changing view distance to 30, from 2
+[20:34:26] [Server thread/INFO]: Steven was slain by Spider
+[20:34:26] [main/INFO]: [CHAT] Steven was slain by Spider
+[20:34:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[20:34:48] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[20:35:21] [Server thread/INFO]: Saving and pausing game...
+[20:35:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:35:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:35:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10484ms or 209 ticks behind
+[20:36:03] [Server thread/INFO]: Changing view distance to 16, from 30
+[20:36:08] [Server thread/INFO]: Saving and pausing game...
+[20:36:08] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:36:08] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:36:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5696ms or 113 ticks behind
+[21:06:55] [Server thread/INFO]: Saving and pausing game...
+[21:06:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[21:06:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[21:06:56] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[21:42:35] [Server thread/INFO]: Saving and pausing game...
+[21:42:35] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[21:42:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[21:42:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[21:45:11] [Server thread/INFO]: Saving and pausing game...
+[21:45:11] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[21:45:11] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[21:45:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[21:45:13] [Server thread/INFO]: Steven lost connection: Disconnected
+[21:45:13] [Server thread/INFO]: Steven left the game
+[21:45:13] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:45:13] [Server thread/INFO]: Stopping server
+[21:45:13] [Server thread/INFO]: Saving players
+[21:45:13] [Server thread/INFO]: Saving worlds
+[21:45:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:45:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[21:45:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[21:45:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:45:15] [main/INFO]: Stopping!

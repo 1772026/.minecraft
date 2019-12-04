@@ -6569,4 +6569,101 @@ at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftL
 2019-12-04 20:30:10,162 Thread-12 > [20:30:10] [main/INFO]: Preparing spawn area: 0%
 2019-12-04 20:30:10,359 Thread-12 > [20:30:10] [main/INFO]: Preparing spawn area: 0%
 2019-12-04 20:30:15,766 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
-2019-12-04 20:30:15,770 Thre
+2019-12-04 20:30:15,770 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,772 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,773 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,775 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,776 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,777 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,779 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,780 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,782 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 0%
+2019-12-04 20:30:15,820 Thread-12 > [20:30:15] [main/INFO]: Preparing spawn area: 83%
+2019-12-04 20:30:16,675 Thread-12 > [20:30:16] [main/INFO]: Preparing spawn area: 83%
+2019-12-04 20:30:16,726 Thread-12 > [20:30:16] [main/INFO]: Time elapsed: 7903 ms
+2019-12-04 20:30:17,318 Thread-12 > [20:30:17] [Server thread/INFO]: Changing view distance to 6, from 10
+2019-12-04 20:30:20,529 Thread-12 > [20:30:20] [Server thread/INFO]: Steven[local:E:0776f396] logged in with entity id 508 at (-670.7066685311664, 178.0625, 152.05704876435118)
+2019-12-04 20:30:20,565 Thread-12 > [20:30:20] [Server thread/INFO]: Steven joined the game
+2019-12-04 20:30:20,831 Thread-12 > [20:30:20] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 20:30:20,911 Thread-12 > [20:30:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 20:30:20,943 Thread-12 > [20:30:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 20:30:22,577 Thread-12 > [20:30:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 20:30:22,595 Thread-12 > [20:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+2019-12-04 20:30:32,633 Thread-12 > [20:30:32] [main/INFO]: Loaded 415 advancements
+2019-12-04 20:30:46,961 Thread-12 > [20:30:46] [Server thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+2019-12-04 20:30:47,156 Thread-12 > [20:30:47] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 20:30:47,249 Thread-12 > [20:30:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 20:30:47,257 Thread-12 > [20:30:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 20:30:48,353 Thread-12 > [20:30:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 20:30:54,415 Thread-12 > [20:30:54] [Server thread/INFO]: Changing view distance to 16, from 6
+2019-12-04 20:30:56,147 Thread-12 > [20:30:56] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 20:30:56,251 Thread-12 > [20:30:56] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 20:30:56,253 Thread-12 > [20:30:56] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 20:30:57,220 Thread-12 > [20:30:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 20:31:01,778 Thread-12 > [20:31:01] [Server thread/INFO]: Changing view distance to 62, from 16
+2019-12-04 20:31:16,761 Thread-12 > [20:31:16] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 20:31:16,800 Thread-12 > [20:31:16] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 20:31:16,807 Thread-12 > [20:31:16] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 20:31:18,312 Thread-12 > [20:31:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 20:31:28,541 Thread-12 > [20:31:28] [Server thread/INFO]: Changing view distance to 2, from 62
+2019-12-04 20:31:36,354 Thread-12 > [20:31:36] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 20:31:36,380 Thread-12 > [20:31:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 20:31:36,381 Thread-12 > [20:31:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 20:31:37,806 Thread-12 > [20:31:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 20:33:09,709 Thread-12 > [20:33:09] [Server thread/INFO]: Changing view distance to 30, from 2
+2019-12-04 20:34:26,633 Thread-12 > [20:34:26] [Server thread/INFO]: Steven was slain by Spider
+2019-12-04 20:34:26,640 Thread-12 > [20:34:26] [main/INFO]: [CHAT] Steven was slain by Spider
+2019-12-04 20:34:30,101 Thread-12 > [20:34:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+2019-12-04 20:34:48,728 Thread-12 > [20:34:48] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+2019-12-04 20:35:21,055 Thread-12 > [20:35:21] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 20:35:21,080 Thread-12 > [20:35:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 20:35:21,086 Thread-12 > [20:35:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 20:35:31,575 Thread-12 > [20:35:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 20:35:31,588 Thread-12 > [20:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10484ms or 209 ticks behind
+2019-12-04 20:36:03,576 Thread-12 > [20:36:03] [Server thread/INFO]: Changing view distance to 16, from 30
+2019-12-04 20:36:08,472 Thread-12 > [20:36:08] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 20:36:08,511 Thread-12 > [20:36:08] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 20:36:08,521 Thread-12 > [20:36:08] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 20:36:14,186 Thread-12 > [20:36:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 20:36:14,201 Thread-12 > [20:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5696ms or 113 ticks behind
+2019-12-04 21:06:55,806 Thread-12 > [21:06:55] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 21:06:55,834 Thread-12 > [21:06:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 21:06:55,840 Thread-12 > [21:06:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 21:06:56,911 Thread-12 > [21:06:56] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 21:42:35,906 Thread-12 > [21:42:35] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 21:42:35,985 Thread-12 > [21:42:35] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 21:42:36,004 Thread-12 > [21:42:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 21:42:37,040 Thread-12 > [21:42:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 21:45:11,856 Thread-12 > [21:45:11] [Server thread/INFO]: Saving and pausing game...
+2019-12-04 21:45:11,931 Thread-12 > [21:45:11] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 21:45:11,951 Thread-12 > [21:45:11] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 21:45:13,161 Thread-12 > [21:45:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 21:45:13,185 Thread-12 > [21:45:13] [Server thread/INFO]: Steven lost connection: Disconnected
+2019-12-04 21:45:13,186 Thread-12 > [21:45:13] [Server thread/INFO]: Steven left the game
+2019-12-04 21:45:13,205 Thread-12 > [21:45:13] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2019-12-04 21:45:13,231 Thread-12 > [21:45:13] [Server thread/INFO]: Stopping server
+2019-12-04 21:45:13,232 Thread-12 > [21:45:13] [Server thread/INFO]: Saving players
+2019-12-04 21:45:13,233 Thread-12 > [21:45:13] [Server thread/INFO]: Saving worlds
+2019-12-04 21:45:13,233 Thread-12 > [21:45:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-04 21:45:13,237 Thread-12 > [21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2019-12-04 21:45:13,239 Thread-12 > [21:45:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-04 21:45:13,971 Thread-12 > [21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+2019-12-04 21:45:13,972 Thread-12 > [21:45:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-04 21:45:13,973 Thread-12 > [21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2019-12-04 21:45:13,980 Thread-12 > [21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2019-12-04 21:45:13,981 Thread-12 > [21:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+2019-12-04 21:45:14,206 Thread-12 > [21:45:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2019-12-04 21:45:15,144 Thread-12 > [21:45:15] [main/INFO]: Stopping!
+2019-12-04 21:45:16,049 Thread-12 Here I am!
+2019-12-04 21:45:16,116 Thread-12 [VersionManager] Refreshing versions locally...
+2019-12-04 21:45:16,172 Thread-12 [VersionManager] Versions has been refreshed (55 ms)
+2019-12-04 21:45:16,190 LoopedThread#8 [Launcher] Launcher exited.
+2019-12-04 21:45:16,190 ExtendedThread#25 [REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers.json
+2019-12-04 21:45:16,193 Thread-12 [Launcher] Minecraft closed with exit code: 0
+2019-12-04 21:45:16,194 ExtendedThread#24 [REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers.json
+2019-12-04 21:45:16,869 ExtendedThread#24 [REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 672 ms.
+2019-12-04 21:45:16,872 ExtendedThread#25 [REPO][HOT_SERVERS_REPO] Success: Reached the repo in 677 ms.
+2019-12-04 21:45:17,492 AWT-EventQueue-0 Good bye!
+2019-12-04 21:45:17,497 AWT-EventQueue-0 [TLauncherManager] before clearLibrary 
+2019-12-04 21:45:17,499 AWT-EventQueue-0 [TLauncherManager] written:  []
+2019-12-04 21:45:17,500 AWT-EventQueue-0 [TLauncherManager] after clearLibrary 
