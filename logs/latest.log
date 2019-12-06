@@ -327,3 +327,125 @@
 [18:12:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [18:12:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
 [18:12:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:16:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:16:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:16:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:16:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:16:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:16:48] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[18:16:48] [Server thread/INFO]: Generating keypair
+[18:16:48] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:16:49] [Server thread/INFO]: Loaded 6 recipes
+[18:16:49] [Server thread/INFO]: Loaded 811 advancements
+[18:16:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:16:49] [main/INFO]: Preparing spawn area: 0%
+[18:16:50] [main/INFO]: Preparing spawn area: 0%
+[18:16:50] [main/INFO]: Preparing spawn area: 92%
+[18:16:50] [main/INFO]: Time elapsed: 1001 ms
+[18:16:50] [Server thread/INFO]: Changing view distance to 14, from 10
+[18:16:50] [Server thread/INFO]: Steven[local:E:aa28b418] logged in with entity id 27521 at (-698.1399773380588, 59.0, 148.7783655708214)
+[18:16:50] [Server thread/INFO]: Steven joined the game
+[18:16:50] [Server thread/INFO]: Saving and pausing game...
+[18:16:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:16:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:16:50] [main/INFO]: Loaded 453 advancements
+[18:16:51] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:21:18] [Server thread/INFO]: Saving and pausing game...
+[18:21:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:21:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:21:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:21:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[18:48:21] [Server thread/INFO]: Steven burned to death
+[18:48:21] [main/INFO]: [CHAT] Steven burned to death
+[18:48:58] [Server thread/INFO]: Steven was slain by Spider
+[18:48:58] [main/INFO]: [CHAT] Steven was slain by Spider
+[18:49:41] [Server thread/INFO]: Steven was shot by Skeleton
+[18:49:41] [main/INFO]: [CHAT] Steven was shot by Skeleton
+[18:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4038ms or 80 ticks behind
+[18:57:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33940, l='Island', x=-196.71, y=69.00, z=177.44]
+[19:00:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34586, l='Island', x=-196.37, y=69.00, z=173.34]
+[19:00:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34588, l='Island', x=-190.35, y=69.00, z=178.65]
+[19:02:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35028, l='Island', x=-194.00, y=69.00, z=179.80]
+[19:02:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35067, l='Island', x=-197.80, y=69.00, z=179.33]
+[19:03:31] [main/INFO]: Loaded 458 advancements
+[19:07:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
+[19:08:32] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[19:09:35] [main/INFO]: Loaded 459 advancements
+[19:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[19:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3824ms or 76 ticks behind
+[19:19:44] [main/INFO]: Loaded 460 advancements
+[19:19:53] [Server thread/INFO]: Saving and pausing game...
+[19:19:53] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:19:53] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:19:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:20:40] [main/INFO]: Loaded 460 advancements
+[19:22:10] [main/INFO]: Loaded 462 advancements
+[19:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4319ms or 86 ticks behind
+[19:25:07] [main/WARN]: Received passengers for unknown entity
+[19:26:37] [main/WARN]: Received passengers for unknown entity
+[19:26:45] [main/WARN]: Received passengers for unknown entity
+[19:27:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
+[19:31:34] [Server thread/INFO]: Saving and pausing game...
+[19:31:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:31:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:31:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:34:05] [main/INFO]: Loaded 462 advancements
+[19:38:02] [Server thread/INFO]: Saving and pausing game...
+[19:38:02] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:38:02] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:38:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:38:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[19:38:18] [Server thread/INFO]: Saving and pausing game...
+[19:38:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:38:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:38:19] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:39:09] [Server thread/INFO]: Saving and pausing game...
+[19:39:10] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:39:10] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:39:11] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:39:25] [Server thread/INFO]: Saving and pausing game...
+[19:39:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:39:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:39:26] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:43:41] [Server thread/INFO]: Saving and pausing game...
+[19:43:41] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:43:41] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:43:43] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:43:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[19:53:32] [Server thread/INFO]: Saving and pausing game...
+[19:53:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:53:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:53:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:54:33] [Server thread/INFO]: Saving and pausing game...
+[19:54:33] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:54:33] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:54:35] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:32:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[20:32:28] [main/WARN]: Received passengers for unknown entity
+[20:33:49] [main/WARN]: Received passengers for unknown entity
+[20:37:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3864ms or 77 ticks behind
+[20:45:07] [Server thread/INFO]: Saving and pausing game...
+[20:45:07] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:45:07] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:45:10] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
+[20:49:12] [Server thread/INFO]: Saving and pausing game...
+[20:49:12] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:49:12] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:49:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:49:14] [Server thread/INFO]: Steven lost connection: Disconnected
+[20:49:14] [Server thread/INFO]: Steven left the game
+[20:49:14] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:49:14] [Server thread/INFO]: Stopping server
+[20:49:14] [Server thread/INFO]: Saving players
+[20:49:14] [Server thread/INFO]: Saving worlds
+[20:49:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[20:49:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:49:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[20:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[20:49:15] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[20:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[20:49:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:49:16] [main/INFO]: Stopping!
