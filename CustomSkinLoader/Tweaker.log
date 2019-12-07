@@ -1,13 +1,13 @@
-[2019-12-07 12:23:21] [main INFO] Using Tweaker
-[2019-12-07 12:23:21] [main INFO] Tweaker: acceptOptions
-[2019-12-07 12:23:21] [main INFO] Tweaker: injectIntoClassLoader
-[2019-12-07 12:23:21] [main INFO] Hook method dmm#n()Lqv; loaded.
-[2019-12-07 12:23:21] [main INFO] Hook method dmm#m()Lqv; loaded.
-[2019-12-07 12:23:21] [main INFO] Hook method dmm#s()Ljava/lang/String; loaded.
-[2019-12-07 12:23:21] [main INFO] Hook method awg#a(Lawh;)Z loaded.
-[2019-12-07 12:23:21] [main INFO] Loaded as a library.
-[2019-12-07 12:23:21] [main INFO] Tweaker: getLaunchArguments
-[2019-12-07 12:23:21] [Client thread INFO] [TLSkinCape] Method dmm.n()Lqv; successfully hooked.
-[2019-12-07 12:23:21] [Client thread INFO] [TLSkinCape] Method dmm.m()Lqv; successfully hooked.
-[2019-12-07 12:23:21] [Client thread INFO] [TLSkinCape] Method dmm.s()Ljava/lang/String; successfully hooked.
-[2019-12-07 12:23:22] [Client thread INFO] [TLSkinCape] Method awg.a(Lawh;)Z successfully hooked.
+[2019-12-07 19:32:15] [main INFO] Using Tweaker
+[2019-12-07 19:32:15] [main INFO] Tweaker: acceptOptions
+[2019-12-07 19:32:15] [main INFO] Tweaker: injectIntoClassLoader
+[2019-12-07 19:32:15] [main INFO] Hook method dmm#n()Lqv; loaded.
+[2019-12-07 19:32:15] [main INFO] Hook method dmm#m()Lqv; loaded.
+[2019-12-07 19:32:15] [main INFO] Hook method dmm#s()Ljava/lang/String; loaded.
+[2019-12-07 19:32:15] [main INFO] Hook method awg#a(Lawh;)Z loaded.
+[2019-12-07 19:32:15] [main INFO] Loaded as a library.
+[2019-12-07 19:32:15] [main INFO] Tweaker: getLaunchArguments
+[2019-12-07 19:32:16] [Client thread INFO] [TLSkinCape] Method dmm.n()Lqv; successfully hooked.
+[2019-12-07 19:32:16] [Client thread INFO] [TLSkinCape] Method dmm.m()Lqv; successfully hooked.
+[2019-12-07 19:32:16] [Client thread INFO] [TLSkinCape] Method dmm.s()Ljava/lang/String; successfully hooked.
+[2019-12-07 19:32:16] [Client thread INFO] [TLSkinCape] Method awg.a(Lawh;)Z successfully hooked.
