@@ -1,59 +1,37 @@
-[00:07:17] [Server thread/INFO]: Saving and pausing game...
-[00:07:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:07:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:07:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:08:31] [Server thread/INFO]: Steven was shot by Skeleton
-[00:08:31] [main/INFO]: [CHAT] Steven was shot by Skeleton
-[00:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
-[00:12:27] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
-[00:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
-[00:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
-[00:22:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30969, l='Island', x=-195.32, y=69.00, z=178.80]
-[00:28:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32823, l='Island', x=-195.99, y=69.00, z=176.32]
-[00:28:46] [main/WARN]: Received passengers for unknown entity
-[00:28:50] [main/WARN]: Received passengers for unknown entity
-[00:29:49] [Server thread/INFO]: Steven was slain by Enderman
-[00:29:49] [main/INFO]: [CHAT] Steven was slain by Enderman
-[00:30:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33866, l='Island', x=-195.88, y=69.00, z=179.40]
-[00:30:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34095, l='Island', x=-197.80, y=69.00, z=179.40]
-[00:31:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34236, l='Island', x=-197.40, y=69.00, z=177.19]
-[00:32:20] [main/INFO]: Loaded 479 advancements
-[00:32:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34876, l='Island', x=-195.26, y=69.00, z=179.70]
-[00:33:50] [main/INFO]: Loaded 481 advancements
-[00:34:16] [main/INFO]: Loaded 490 advancements
-[00:40:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37464, l='Island', x=-197.40, y=69.00, z=175.14]
-[00:44:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/38544, l='Island', x=-212.22, y=47.00, z=127.15]
-[00:49:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40232, l='Island', x=-191.58, y=69.00, z=178.39]
-[00:55:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42082, l='Island', x=-190.60, y=69.00, z=179.20]
-[00:57:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42741, l='Island', x=-196.91, y=69.00, z=174.87]
-[00:59:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43524, l='Island', x=-190.66, y=69.00, z=173.83]
-[01:03:02] [Server thread/INFO]: Steven has made the advancement [Voluntary Exile]
-[01:03:02] [main/INFO]: [CHAT] Steven has made the advancement [Voluntary Exile]
-[01:03:02] [main/INFO]: Loaded 491 advancements
-[01:05:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46166, l='Island', x=-197.80, y=69.00, z=179.31]
-[01:08:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/47181, l='Island', x=-196.33, y=69.00, z=173.20]
-[01:09:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/47468, l='Island', x=-190.67, y=69.00, z=179.80]
-[01:18:00] [Server thread/INFO]: Steven drowned
-[01:18:00] [main/INFO]: [CHAT] Steven drowned
-[01:18:38] [Server thread/INFO]: Steven drowned
-[01:18:38] [main/INFO]: [CHAT] Steven drowned
-[01:22:32] [Server thread/INFO]: Saving and pausing game...
-[01:22:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[01:22:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[01:22:33] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[01:22:34] [Server thread/INFO]: Steven lost connection: Disconnected
-[01:22:34] [Server thread/INFO]: Steven left the game
-[01:22:34] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[01:22:34] [Server thread/INFO]: Stopping server
-[01:22:34] [Server thread/INFO]: Saving players
-[01:22:34] [Server thread/INFO]: Saving worlds
-[01:22:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[01:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:22:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[01:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
-[01:22:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[01:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
-[01:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:22:36] [main/INFO]: Stopping!
+[00:08:50] [Server thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[00:10:13] [Server thread/INFO]: Saving and pausing game...
+[00:10:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:10:15] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:10:15] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:12:13] [Server thread/INFO]: Saving and pausing game...
+[00:12:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:12:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:12:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:16:04] [Server thread/WARN]: Steven moved wrongly!
+[00:25:36] [Server thread/INFO]: Saving and pausing game...
+[00:25:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:25:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:25:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:36:02] [Server thread/INFO]: Saving and pausing game...
+[00:36:02] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:36:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:36:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:47:20] [Server thread/INFO]: Saving and pausing game...
+[00:47:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:47:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:47:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:47:21] [Server thread/INFO]: Steven lost connection: Disconnected
+[00:47:21] [Server thread/INFO]: Steven left the game
+[00:47:22] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:47:22] [Server thread/INFO]: Stopping server
+[00:47:22] [Server thread/INFO]: Saving players
+[00:47:22] [Server thread/INFO]: Saving worlds
+[00:47:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[00:47:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:47:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
