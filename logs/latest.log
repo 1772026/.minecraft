@@ -35,3 +35,30 @@
 [00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
 [00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:50:01] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[00:50:01] [Server thread/INFO]: Generating keypair
+[00:50:01] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:50:01] [Server thread/INFO]: Loaded 6 recipes
+[00:50:01] [Server thread/INFO]: Loaded 811 advancements
+[00:50:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:50:02] [main/INFO]: Preparing spawn area: 0%
+[00:50:02] [main/INFO]: Preparing spawn area: 0%
+[00:50:02] [main/INFO]: Time elapsed: 857 ms
+[00:50:02] [Server thread/INFO]: Changing view distance to 14, from 10
+[00:50:02] [Server thread/INFO]: Steven[local:E:eaa5b5e9] logged in with entity id 15977 at (-199.30000001192093, 57.0, -401.85678918509376)
+[00:50:02] [Server thread/INFO]: Steven joined the game
+[00:50:03] [Server thread/INFO]: Saving and pausing game...
+[00:50:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:50:03] [main/INFO]: Loaded 509 advancements
+[00:50:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:50:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:52:47] [Server thread/INFO]: Saving and pausing game...
+[00:52:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[00:52:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[00:52:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[00:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
