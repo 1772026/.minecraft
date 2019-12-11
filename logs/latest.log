@@ -1,64 +1,383 @@
-[00:08:50] [Server thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
-[00:10:13] [Server thread/INFO]: Saving and pausing game...
-[00:10:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:10:15] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:10:15] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:12:13] [Server thread/INFO]: Saving and pausing game...
-[00:12:13] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:12:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:12:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:16:04] [Server thread/WARN]: Steven moved wrongly!
-[00:25:36] [Server thread/INFO]: Saving and pausing game...
-[00:25:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:25:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:25:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:36:02] [Server thread/INFO]: Saving and pausing game...
-[00:36:02] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:36:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:36:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:47:20] [Server thread/INFO]: Saving and pausing game...
-[00:47:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:47:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:47:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:47:21] [Server thread/INFO]: Steven lost connection: Disconnected
-[00:47:21] [Server thread/INFO]: Steven left the game
-[00:47:22] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[00:47:22] [Server thread/INFO]: Stopping server
-[00:47:22] [Server thread/INFO]: Saving players
-[00:47:22] [Server thread/INFO]: Saving worlds
-[00:47:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
-[00:47:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:47:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
-[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:47:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:50:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:50:01] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
-[00:50:01] [Server thread/INFO]: Generating keypair
-[00:50:01] [Server thread/INFO]: Reloading ResourceManager: Default
-[00:50:01] [Server thread/INFO]: Loaded 6 recipes
-[00:50:01] [Server thread/INFO]: Loaded 811 advancements
-[00:50:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:50:02] [main/INFO]: Preparing spawn area: 0%
-[00:50:02] [main/INFO]: Preparing spawn area: 0%
-[00:50:02] [main/INFO]: Time elapsed: 857 ms
-[00:50:02] [Server thread/INFO]: Changing view distance to 14, from 10
-[00:50:02] [Server thread/INFO]: Steven[local:E:eaa5b5e9] logged in with entity id 15977 at (-199.30000001192093, 57.0, -401.85678918509376)
-[00:50:02] [Server thread/INFO]: Steven joined the game
-[00:50:03] [Server thread/INFO]: Saving and pausing game...
-[00:50:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:50:03] [main/INFO]: Loaded 509 advancements
-[00:50:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:50:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:52:47] [Server thread/INFO]: Saving and pausing game...
-[00:52:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:52:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:52:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[09:19:18] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[09:19:18] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[09:19:18] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[09:19:18] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+[09:19:19] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[09:19:20] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: dnv.getTexture
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: dpt.getModelData
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.canRenderInLayer
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluidState
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: ais.getTags
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Field not present: aix.NAMETAG_DISTANCE
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: clj.getTags
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.setKeyConflictContext
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.setKeyModifierAndCode
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.getKeyModifier
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeMod
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: dof.fromJson
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffect
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: cvd$b.preDraw
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Method not present: cvd$b.postDraw
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeDimension
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.GuiModList
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[09:19:20] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[09:19:20] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[09:19:21] [main/INFO]: Setting user: Steven
+[09:19:28] [main/INFO]: LWJGL Version: 3.2.2 build 10
+[09:19:29] [main/INFO]: [OptiFine] 
+[09:19:29] [main/INFO]: [OptiFine] OptiFine_1.14.4_HD_U_F4
+[09:19:29] [main/INFO]: [OptiFine] Build: 20191025-153543
+[09:19:29] [main/INFO]: [OptiFine] OS: Windows 8.1 (amd64) version 6.3
+[09:19:29] [main/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[09:19:29] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[09:19:29] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[09:19:29] [main/INFO]: [OptiFine] OpenGL: Intel(R) UHD Graphics 630, version 4.5.0 - Build 24.20.100.6292, Intel
+[09:19:29] [main/INFO]: [OptiFine] OpenGL Version: 4.5.0
+[09:19:29] [main/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[09:19:29] [main/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[09:19:29] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[09:19:29] [main/INFO]: [Shaders] OpenGL Version: 4.5.0 - Build 24.20.100.6292
+[09:19:29] [main/INFO]: [Shaders] Vendor:  Intel
+[09:19:29] [main/INFO]: [Shaders] Renderer: Intel(R) UHD Graphics 630
+[09:19:29] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[09:19:29] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[09:19:29] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[09:19:29] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[09:19:29] [main/INFO]: [Shaders] Load shaders configuration.
+[09:19:29] [main/INFO]: [Shaders] Save shaders configuration.
+[09:19:29] [main/INFO]: [Shaders] No shaderpack loaded.
+[09:19:30] [VersionCheck/INFO]: [OptiFine] Version found: F2
+[09:19:30] [main/INFO]: Narrator library for x64 successfully loaded
+[09:19:31] [main/INFO]: [OptiFine] *** Reloading textures ***
+[09:19:31] [main/INFO]: [OptiFine] Resource packs: Default
+[09:19:32] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] Multitexture: false
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] Multipass connected textures: false
+[09:19:39] [Server-Worker-3/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[09:19:42] [Server-Worker-3/INFO]: [OptiFine] Mipmap levels: 4
+[09:19:44] [main/INFO]: OpenAL initialized.
+[09:19:44] [main/INFO]: Sound engine started
+[09:19:45] [main/INFO]: Created: 1024x512 textures-atlas
+[09:19:45] [main/INFO]: [OptiFine] Animated sprites: 33
+[09:19:45] [main/INFO]: Created: 256x256 textures/particle-atlas
+[09:19:45] [main/INFO]: Created: 256x256 textures/painting-atlas
+[09:19:45] [main/INFO]: Created: 128x128 textures/mob_effect-atlas
+[09:19:45] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[09:19:45] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[09:21:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:21:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:21:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:21:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:21:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:21:56] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[09:21:56] [Server thread/INFO]: Generating keypair
+[09:21:57] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:21:57] [Server thread/INFO]: Loaded 6 recipes
+[09:21:57] [Server thread/INFO]: Loaded 811 advancements
+[09:21:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:21:59] [main/INFO]: Preparing spawn area: 0%
+[09:21:59] [main/INFO]: Preparing spawn area: 0%
+[09:21:59] [main/INFO]: Preparing spawn area: 0%
+[09:21:59] [main/INFO]: Time elapsed: 1382 ms
+[09:21:59] [Server thread/INFO]: Changing view distance to 14, from 10
+[09:22:02] [Server thread/INFO]: Steven[local:E:077dbd60] logged in with entity id 504 at (-201.67096462948734, 7.0, -435.7071988605659)
+[09:22:02] [Server thread/INFO]: Steven joined the game
+[09:22:02] [Server thread/INFO]: Saving and pausing game...
+[09:22:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[09:22:03] [main/INFO]: Loaded 509 advancements
+[09:22:03] [main/INFO]: [STDOUT]: [TLSkinCape] Current Minecraft version is 1.14.4.
+[09:22:03] [main/INFO]: [STDOUT]: [TLSkinCape] OptiFine detected.
+[09:22:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[09:22:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[09:22:04] [main/INFO]: textures Steven was added, skin: true,cape: false, max waiting: 14 ,during : 1052 
+[09:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[09:34:12] [main/INFO]: Loaded 510 advancements
+[09:34:14] [main/INFO]: Loaded 512 advancements
+[09:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[09:38:43] [main/INFO]: [CHAT] Saved screenshot as 2019-12-11_09.38.43.png
+[09:54:10] [main/WARN]: Received passengers for unknown entity
+[09:54:19] [main/INFO]: Loaded 514 advancements
+[10:04:34] [Server thread/INFO]: Saving and pausing game...
+[10:04:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:04:35] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:04:35] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:04:44] [Server thread/INFO]: Saving and pausing game...
+[10:04:44] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:04:44] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:04:44] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:04:47] [Server thread/INFO]: Saving and pausing game...
+[10:04:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:04:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:04:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:06:34] [Server thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[10:07:35] [Server thread/INFO]: Saving and pausing game...
+[10:07:35] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:07:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:07:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:07:37] [Server thread/INFO]: Saving and pausing game...
+[10:07:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:07:38] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:07:38] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:13:28] [Server thread/INFO]: Saving and pausing game...
+[10:13:28] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:13:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:13:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[10:16:32] [main/INFO]: Loaded 515 advancements
+[10:18:14] [main/INFO]: Loaded 515 advancements
+[10:20:49] [Server thread/INFO]: Saving and pausing game...
+[10:20:49] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:20:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:20:50] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:21:14] [main/INFO]: [CHAT] Unknown command
+[10:21:14] [main/INFO]: [CHAT] /summon<--[HERE]
+[10:21:16] [Server thread/INFO]: Saving and pausing game...
+[10:21:16] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:21:16] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:21:16] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:21:53] [main/INFO]: [CHAT] Seed: [8186463557901604120]
+[10:22:01] [main/INFO]: [CHAT] Seed: [8186463557901604120]
+[10:22:03] [Server thread/INFO]: Saving and pausing game...
+[10:22:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:22:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:22:04] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:24:46] [Server thread/INFO]: Saving and pausing game...
+[10:24:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:24:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:24:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:27:09] [Server thread/INFO]: Saving and pausing game...
+[10:27:09] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:27:09] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:27:09] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:27:30] [Server thread/INFO]: Saving and pausing game...
+[10:27:30] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:27:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:27:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:31:24] [Server thread/INFO]: Saving and pausing game...
+[10:31:24] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:31:24] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:31:24] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:33:45] [Server thread/INFO]: Saving and pausing game...
+[10:33:45] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:33:46] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:33:46] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:35:31] [main/INFO]: Loaded 517 advancements
+[10:38:34] [main/INFO]: Loaded 517 advancements
+[10:40:34] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[10:41:29] [Server thread/INFO]: Steven fell from a high place
+[10:41:29] [main/INFO]: [CHAT] Steven fell from a high place
+[10:42:09] [main/INFO]: [CHAT] Unknown command
+[10:42:09] [main/INFO]: [CHAT] /s<--[HERE]
+[10:42:13] [main/INFO]: [CHAT] Seed: [8186463557901604120]
+[10:47:01] [Server thread/INFO]: Saving and pausing game...
+[10:47:01] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:47:02] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:47:02] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:47:03] [Server thread/INFO]: Saving and pausing game...
+[10:47:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:47:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:47:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:50:47] [Server thread/INFO]: Saving and pausing game...
+[10:50:47] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:50:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:50:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:53:20] [Server thread/INFO]: Saving and pausing game...
+[10:53:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:53:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:53:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[10:54:24] [Server thread/INFO]: Saving and pausing game...
+[10:54:24] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[10:54:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[10:54:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:00:07] [Server thread/INFO]: Steven was shot by Skeleton
+[11:00:07] [main/INFO]: [CHAT] Steven was shot by Skeleton
+[11:04:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/31518, l='Island', x=-196.85, y=69.00, z=176.77]
+[11:05:07] [Server thread/INFO]: Saving and pausing game...
+[11:05:07] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:05:09] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:05:09] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[11:19:26] [Server thread/INFO]: Saving and pausing game...
+[11:19:26] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:19:27] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:19:27] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:19:38] [Server thread/INFO]: Saving and pausing game...
+[11:19:38] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:19:39] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:19:39] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:32:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[11:32:57] [Server thread/INFO]: Saving and pausing game...
+[11:32:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:32:58] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:32:58] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:37:21] [Server thread/INFO]: Saving and pausing game...
+[11:37:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:37:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:37:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:37:22] [Server thread/INFO]: Saving and pausing game...
+[11:37:22] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:37:23] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:37:23] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:38:14] [Server thread/INFO]: Saving and pausing game...
+[11:38:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:38:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:38:14] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:38:25] [Server thread/INFO]: Saving and pausing game...
+[11:38:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:38:26] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:38:26] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:43:54] [Server thread/INFO]: Saving and pausing game...
+[11:43:54] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:43:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:43:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:43:55] [Server thread/INFO]: Saving and pausing game...
+[11:43:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:43:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:43:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:45:38] [Server thread/INFO]: Steven drowned
+[11:45:38] [main/INFO]: [CHAT] Steven drowned
+[11:45:56] [Server thread/INFO]: Saving and pausing game...
+[11:45:56] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:45:58] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:45:58] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:49:54] [Server thread/INFO]: Steven drowned
+[11:49:54] [main/INFO]: [CHAT] Steven drowned
+[11:53:37] [Server thread/INFO]: Saving and pausing game...
+[11:53:37] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[11:53:40] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[11:53:40] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[11:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[11:56:49] [Server thread/INFO]: Steven tried to swim in lava
+[11:56:49] [main/INFO]: [CHAT] Steven tried to swim in lava
+[12:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[12:02:43] [Server thread/INFO]: Steven tried to swim in lava to escape Skeleton
+[12:02:43] [main/INFO]: [CHAT] Steven tried to swim in lava to escape Skeleton
+[12:08:53] [Server thread/INFO]: Saving and pausing game...
+[12:08:53] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[12:08:54] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[12:08:54] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[12:10:01] [Server thread/INFO]: Steven drowned
+[12:10:01] [main/INFO]: [CHAT] Steven drowned
+[12:10:03] [main/INFO]: [CHAT] Your home bed was missing or obstructed
+[12:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
+[12:19:29] [Server thread/INFO]: Saving and pausing game...
+[12:19:29] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[12:19:31] [Server thread/INFO]: Steven lost connection: Disconnected
+[12:19:31] [Server thread/INFO]: Steven left the game
+[12:19:31] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[12:19:31] [Server thread/INFO]: Stopping server
+[12:19:31] [Server thread/INFO]: Saving players
+[12:19:31] [Server thread/INFO]: Saving worlds
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[12:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[12:19:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[12:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:19:32] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[12:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[12:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:19:33] [main/INFO]: Stopping!
