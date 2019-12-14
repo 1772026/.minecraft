@@ -132,3 +132,71 @@
 2019-12-07 08:21:55,227 Thread-2 > Started! (4995 ms.)
 2019-12-07 08:21:55,227 Thread-2 > [Loading] SUCCESS
 2019-12-07 08:21:55,227 Thread-2 [Bootstrapper] I can be terminated now: 0
+2019-12-14 07:56:15,079 main 
+2019-12-14 07:56:15,081 main -------------------------------------------------------------------
+2019-12-14 07:56:20,426 main [Downloader2] Loaded configuration: normal
+2019-12-14 07:56:23,720 main [Bootstrapper] createLauncher
+2019-12-14 07:56:23,720 main path C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51
+2019-12-14 07:56:23,720 main [Bootstrapper] choose jvm:C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-12-14 07:56:23,722 main [Bootstrapper] validate files
+2019-12-14 07:56:23,723 main [Bootstrapper] end validated files
+2019-12-14 07:56:23,723 main [Bootstrapper] Starting launcher...
+2019-12-14 07:56:25,442 Thread-2 > [TLAUNCHER][STATIC] initialize inner config
+2019-12-14 07:56:25,537 Thread-2 > [Loading] INITIALIZING
+2019-12-14 07:56:29,681 Thread-2 > Starting TLauncher 2.67 RELEASE
+2019-12-14 07:56:29,681 Thread-2 > For more information, visit https://tlauncher.org/
+2019-12-14 07:56:29,681 Thread-2 > Startup time: Dec 14, 2019 7:56:29 AM
+2019-12-14 07:56:29,681 Thread-2 > ---
+2019-12-14 07:56:30,404 Thread-2 > [Loading] LOADING_CONFIGURATION
+2019-12-14 07:56:30,406 Thread-2 > Loading configuration from file: C:\Users\Ste-PC\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+2019-12-14 07:56:30,508 Thread-2 > [Configuration] Constant values: {}
+2019-12-14 07:56:30,557 Thread-2 > Machine info: -------------------------------------------------------
+2019-12-14 07:56:30,558 Thread-2 > Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 12162 MB RAM
+2019-12-14 07:56:30,558 Thread-2 > java path=C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-12-14 07:56:30,558 Thread-2 > Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+2019-12-14 07:56:30,558 Thread-2 >  Intel(R) UHD Graphics 630, Intel(R) UHD Graphics Family, 6209 MB, NVIDIA GeForce GTX 1050, GeForce GTX 1050, 10102 MB
+2019-12-14 07:56:30,559 Thread-2 > -------------------------------------------------------
+2019-12-14 07:56:30,559 Thread-2 > Selected locale: en_US
+2019-12-14 07:56:30,675 Thread-2 > [Loading] LOADING_CONSOLE
+2019-12-14 07:56:30,993 Thread-2 > [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2019-12-14 07:56:31,344 Thread-2 > 
+2019-12-14 07:56:31,738 Thread-2 > [Downloader2] Loaded configuration: good
+2019-12-14 07:56:31,881 Thread-2 > [Updater] Requesting an update...
+2019-12-14 07:56:31,984 Thread-2 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-12-14 07:56:31,986 Thread-2 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.67&client=49fddef2-7fd7-4e1b-b03a-a2418f93b47d
+2019-12-14 07:56:32,608 Thread-2 > [Updater] Request time: 624 ms
+2019-12-14 07:56:32,608 Thread-2 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-12-14 07:56:33,329 Thread-2 > [Browser] Loading resources...
+2019-12-14 07:56:33,449 Thread-2 > [Browser] Loading background...
+2019-12-14 07:56:33,497 Thread-2 > [Browser] Cleaning up after loading:
+2019-12-14 07:56:33,497 Thread-2 > Starting garbage collector: 26 / 152 MB
+2019-12-14 07:56:33,550 Thread-2 > Garbage collector completed: 13 / 152 MB
+2019-12-14 07:56:33,553 Thread-2 > [Loading] LOADING_MANAGERS
+2019-12-14 07:56:33,558 Thread-2 > [LocalVersionList] Base directory: C:\Users\Ste-PC\AppData\Roaming\.minecraft
+2019-12-14 07:56:33,641 Thread-2 > [ProfileManager] Refreshing profiles from: C:\Users\Ste-PC\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2019-12-14 07:56:33,673 Thread-2 > [AdvertisingStatusObserver]  started to get ad information
+2019-12-14 07:56:33,673 Thread-2 > [AdvertisingStatusObserver]  finished to get add information
+2019-12-14 07:56:33,674 Thread-2 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.5.json
+2019-12-14 07:56:33,679 Thread-2 > [Loading] LOADING_WINDOW
+2019-12-14 07:56:33,718 Thread-2 > [Loading] PREPARING_MAINPANE
+2019-12-14 07:56:34,539 Thread-2 > [REPO][SERVER_LIST_REPO] Success: Reached the repo in 859 ms.
+2019-12-14 07:56:36,080 Thread-2 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2019-12-14 07:56:36,090 Thread-2 > [Browser] Running in JavaFX Thread
+2019-12-14 07:56:36,090 Thread-2 > [Browser] Preparing JavaFX...
+2019-12-14 07:56:36,403 Thread-2 > [Browser] Initializing...
+2019-12-14 07:56:39,693 Thread-2 > [Downloader2] Loaded configuration: good
+2019-12-14 07:56:40,629 Thread-2 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 4
+2019-12-14 07:56:40,631 Thread-2 > [Browser@1697271411] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2019-12-14 07:56:40,804 Thread-2 > [Browser] add listens into server_choose
+2019-12-14 07:56:40,805 Thread-2 > [Browser] finished listens into server_choose
+2019-12-14 07:56:42,381 Thread-2 > [Loading] POSTINIT_GUI
+2019-12-14 07:56:42,381 Thread-2 > [Frame] Packing main frame...
+2019-12-14 07:56:42,527 Thread-2 > [Frame] Resizing main pane...
+2019-12-14 07:56:42,528 Thread-2 > Updater is already closed. Showing up...
+2019-12-14 07:56:42,528 Thread-2 > Visibility set.
+2019-12-14 07:56:42,529 Thread-2 > [Loading] REFRESHING_INFO
+2019-12-14 07:56:42,531 Thread-2 > [VersionManager] Refreshing versions remotely...
+2019-12-14 07:56:42,533 Thread-2 > [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2019-12-14 07:56:42,533 Thread-2 > Started! (12130 ms.)
+2019-12-14 07:56:42,534 Thread-2 > [Loading] SUCCESS
+2019-12-14 07:56:42,534 Thread-2 [Bootstrapper] I can be terminated now: 0
