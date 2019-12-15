@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-12-14 21:03:15 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2019-12-08 15:40:33 +0700"
@@ -338,6 +344,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-12-03 00:48:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-12-14 21:03:15 +0700"
     },
     "done": true
   },
@@ -617,7 +629,8 @@
       "minecraft:creeper": "2019-12-02 00:37:34 +0700",
       "minecraft:wither_skeleton": "2019-12-07 16:16:29 +0700",
       "minecraft:enderman": "2019-12-08 00:32:20 +0700",
-      "minecraft:zombie": "2019-12-07 12:27:29 +0700"
+      "minecraft:zombie": "2019-12-07 12:27:29 +0700",
+      "minecraft:drowned": "2019-12-14 20:51:39 +0700"
     },
     "done": false
   },
@@ -945,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-12-14 21:42:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-12-02 23:54:35 +0700"
@@ -1221,11 +1240,15 @@
       "minecraft:forest": "2019-12-02 00:40:15 +0700",
       "minecraft:mountains": "2019-12-03 00:02:13 +0700",
       "minecraft:taiga": "2019-12-03 01:01:28 +0700",
+      "minecraft:giant_tree_taiga": "2019-12-14 20:59:10 +0700",
+      "minecraft:deep_cold_ocean": "2019-12-14 20:49:08 +0700",
       "minecraft:taiga_hills": "2019-12-06 19:20:40 +0700",
       "minecraft:beach": "2019-12-07 08:38:13 +0700",
       "minecraft:river": "2019-12-03 00:56:37 +0700",
       "minecraft:wooded_mountains": "2019-12-03 01:01:20 +0700",
       "minecraft:wooded_hills": "2019-12-02 00:40:29 +0700",
+      "minecraft:giant_tree_taiga_hills": "2019-12-14 20:58:44 +0700",
+      "minecraft:stone_shore": "2019-12-14 20:52:37 +0700",
       "minecraft:plains": "2019-11-29 18:35:10 +0700"
     },
     "done": false
@@ -1902,6 +1925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-12-14 21:03:15 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-12-03 01:52:02 +0700"
@@ -1935,6 +1964,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2019-12-03 00:45:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-12-14 21:03:15 +0700"
     },
     "done": true
   },
@@ -2430,6 +2465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-12-14 21:03:15 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-12-06 19:03:31 +0700"
@@ -2571,6 +2612,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-12-03 00:38:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-12-14 21:03:15 +0700"
     },
     "done": true
   },
@@ -2961,6 +3008,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-12-02 00:42:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-12-14 21:03:15 +0700"
     },
     "done": true
   },
