@@ -1503,3 +1503,549 @@ C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe -Djava
 2019-12-16 09:59:24,376 AWT-EventQueue-0 [TLauncherManager] before clearLibrary 
 2019-12-16 09:59:24,378 AWT-EventQueue-0 [TLauncherManager] written:  []
 2019-12-16 09:59:24,379 AWT-EventQueue-0 [TLauncherManager] after clearLibrary 
+2019-12-24 20:00:28,874 main [Loading] INITIALIZING
+Starting TLauncher 2.68 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: Dec 24, 2019 8:00:27 PM
+---
+run double running protectin
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\Ste-PC\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 12162 MB RAM
+java path=C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+ Intel(R) UHD Graphics 630, Intel(R) UHD Graphics Family, 6209 MB, NVIDIA GeForce GTX 1050, GeForce GTX 1050, 10102 MB
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2019-12-24 20:00:28,874 main [Downloader2] Loaded configuration: good
+2019-12-24 20:00:29,035 ExtendedThread#4 [Updater] Requesting an update...
+2019-12-24 20:00:29,039 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-12-24 20:00:29,040 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.68&client=49fddef2-7fd7-4e1b-b03a-a2418f93b47d
+2019-12-24 20:00:29,370 main [Browser] Loading resources...
+2019-12-24 20:00:29,627 main [Browser] Loading background...
+2019-12-24 20:00:29,777 ExtendedThread#4 [Updater] Request time: 738 ms
+2019-12-24 20:00:29,778 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-12-24 20:00:29,790 main [Browser] Cleaning up after loading:
+2019-12-24 20:00:29,791 main Starting garbage collector: 28 / 161 MB
+2019-12-24 20:00:29,942 main Garbage collector completed: 13 / 161 MB
+2019-12-24 20:00:29,946 main [Loading] LOADING_MANAGERS
+2019-12-24 20:00:29,953 main [LocalVersionList] Base directory: C:\Users\Ste-PC\AppData\Roaming\.minecraft
+2019-12-24 20:00:29,996 main [ProfileManager] Refreshing profiles from: C:\Users\Ste-PC\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2019-12-24 20:00:30,105 main [AdvertisingStatusObserver]  started to get ad information
+2019-12-24 20:00:30,107 main [AdvertisingStatusObserver]  finished to get add information
+2019-12-24 20:00:30,114 main [Loading] LOADING_WINDOW
+2019-12-24 20:00:30,141 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2019-12-24 20:00:30,161 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2019-12-24 20:00:30,200 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2019-12-24 20:00:30,200 JavaFX Application Thread [Browser] Preparing JavaFX...
+2019-12-24 20:00:30,331 JavaFX Application Thread [Browser] Initializing...
+2019-12-24 20:00:30,564 main [Loading] PREPARING_MAINPANE
+2019-12-24 20:00:30,814 ExtendedThread#7 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 674 ms.
+2019-12-24 20:00:32,068 main [Downloader2] Loaded configuration: good
+2019-12-24 20:00:32,348 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 2
+2019-12-24 20:00:32,350 JavaFX Application Thread [Browser@1840440217] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2019-12-24 20:00:32,488 JavaFX Application Thread [Browser] add listens into server_choose
+2019-12-24 20:00:32,489 JavaFX Application Thread [Browser] finished listens into server_choose
+2019-12-24 20:00:33,969 main [Loading] POSTINIT_GUI
+2019-12-24 20:00:33,969 main [Frame] Packing main frame...
+2019-12-24 20:00:34,058 main [Frame] Resizing main pane...
+2019-12-24 20:00:34,059 main Updater is already closed. Showing up...
+2019-12-24 20:00:34,059 main Visibility set.
+2019-12-24 20:00:34,060 main [Loading] REFRESHING_INFO
+2019-12-24 20:00:34,062 ExtendedThread#7 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2019-12-24 20:00:34,067 main Started! (6092 ms.)
+2019-12-24 20:00:34,067 main [Loading] SUCCESS
+2019-12-24 20:00:34,070 ExtendedThread#6 [VersionManager] Refreshing versions remotely...
+2019-12-24 20:00:34,077 main [TLauncher] show tlauncher!!!
+2019-12-24 20:00:34,077 main [Double running] clear time label
+2019-12-24 20:00:34,562 AsyncObject#15 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+2019-12-24 20:00:34,563 AsyncObject#17 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2019-12-24 20:00:34,580 AsyncObject#16 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2019-12-24 20:00:34,664 ExtendedThread#7 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 597 ms.
+2019-12-24 20:00:34,920 AsyncObject#17 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 354 ms.
+2019-12-24 20:00:34,934 AsyncObject#17 [SkinVersionList] Got in 371 ms
+2019-12-24 20:00:35,032 AsyncObject#16 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 449 ms.
+2019-12-24 20:00:35,061 AsyncObject#16 [ExtraVersionList] Got in 498 ms
+2019-12-24 20:00:35,738 AsyncObject#15 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 1175 ms.
+2019-12-24 20:00:35,825 AsyncObject#15 [OfficialVersionList] Got in 1263 ms
+2019-12-24 20:00:35,833 ExtendedThread#6 [VersionManager] Versions has been refreshed (1385 ms)
+2019-12-24 20:00:35,884 ExtendedThread#13 [REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+2019-12-24 20:00:35,889 ExtendedThread#14 [REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+2019-12-24 20:00:35,909 Thread-22 run server on  37842
+2019-12-24 20:00:36,266 ExtendedThread#14 [REPO][HOT_SERVERS_REPO] Success: Reached the repo in 371 ms.
+2019-12-24 20:00:36,400 ExtendedThread#13 [REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 511 ms.
+2019-12-24 20:00:41,564 LoopedThread#8 [LoginForm] Login was OK. Trying to launch now.
+2019-12-24 20:00:41,916 LoopedThread#8 [Launcher] Running under TLauncher 2.68
+2019-12-24 20:00:41,917 LoopedThread#8 [Launcher] Collecting info...
+2019-12-24 20:00:41,934 LoopedThread#8 [TLauncherManager] before clearLibrary 
+2019-12-24 20:00:41,937 LoopedThread#8 [TLauncherManager] written:  []
+2019-12-24 20:00:41,938 LoopedThread#8 [TLauncherManager] after clearLibrary 
+2019-12-24 20:00:41,938 LoopedThread#8 [Launcher] Force update: false
+2019-12-24 20:00:41,939 LoopedThread#8 [Launcher] Selected version: OptiFine 1.14.4
+2019-12-24 20:00:41,940 LoopedThread#8 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=Steven}
+2019-12-24 20:00:41,942 LoopedThread#8 [Launcher] Version sync info: VersionSyncInfo{id='OptiFine 1.14.4',
+local=CompleteVersion{id='OptiFine 1.14.4', time=Fri Jul 19 15:29:04 ICT 2019, release=Fri Jul 19 16:25:47 ICT 2019, type=modified, class=net.minecraft.launchwrapper.Launch, minimumVersion=21, assets='1.14', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@48c11244, libraries=[Library{name='optifine:OptiFine:1.14.4_HD_U_F4', rules=null, natives=null, extract=null, packed='null'}, Library{name='optifine:launchwrapper-of:2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:2.0.24', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@49690428, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@38533f5a, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='OptiFine 1.14.4', time=Fri Jul 19 15:29:04 ICT 2019, release=Fri Jul 19 15:25:48 ICT 2019, type=modified, source=EXTRA_VERSION_REPO, skinVersion=true, list=net.minecraft.launcher.updater.ExtraVersionList@48c11244}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2019-12-24 20:00:42,061 LoopedThread#8 [Launcher] Java path: C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-12-24 20:00:42,064 LoopedThread#8 [Launcher] Checking conditions...
+2019-12-24 20:00:42,069 LoopedThread#8 [Launcher] Comparing assets...
+2019-12-24 20:00:42,069 LoopedThread#8 [AssetsManager] Checking resources...
+2019-12-24 20:00:42,070 LoopedThread#8 [AssetsManager] Reading indexes from file C:\Users\Ste-PC\AppData\Roaming\.minecraft\assets\indexes\1.14.json
+2019-12-24 20:00:42,091 LoopedThread#8 [AssetsManager] Fast comparing: true
+2019-12-24 20:00:42,324 LoopedThread#8 [Launcher] Delta time to compare assets: 254 ms.
+2019-12-24 20:00:42,324 LoopedThread#8 [TLauncherManager] add required libraries: OptiFine 1.14.4
+2019-12-24 20:00:44,000 LoopedThread#8 [VersionManager] Required for version OptiFine 1.14.4: []
+2019-12-24 20:00:44,002 LoopedThread#8 [Modpack]  got container
+2019-12-24 20:00:44,020 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:authlib:1.5.25
+2019-12-24 20:00:44,022 LoopedThread#8 [TLauncherManager] library will be replaced: org.tlauncher:authlib:1.6.25
+2019-12-24 20:00:44,023 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+2019-12-24 20:00:44,025 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+2019-12-24 20:00:44,026 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+2019-12-24 20:00:44,028 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+2019-12-24 20:00:44,029 LoopedThread#8 [TLauncherManager] library will be added: customskinloader:CustomSkinLoader_1.14.4:1.8_opti
+2019-12-24 20:00:44,042 LoopedThread#8 [Launcher] Unpacking natives...
+2019-12-24 20:00:44,056 LoopedThread#8 [Launcher] Constructing process...
+2019-12-24 20:00:44,057 LoopedThread#8 [Launcher] Constructing classpath...
+2019-12-24 20:00:44,062 LoopedThread#8 [Launcher] Getting Minecraft arguments...
+2019-12-24 20:00:44,071 LoopedThread#8 [Launcher] Full command (characters are not escaped):
+C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe -Djava.net.preferIPv4Stack=true -Xmn128M -Xmx10962M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\Ste-PC\AppData\Roaming\.minecraft\versions\OptiFine 1.14.4\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\customskinloader\CustomSkinLoader_1.14.4\1.8_opti\CustomSkinLoader_1.14.4-1.8_opti.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\6.2\asm-tree-6.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\6.2\asm-6.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\6.2\asm-commons-6.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.14.4_HD_U_F4\OptiFine-1.14.4_HD_U_F4.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\optifine\launchwrapper-of\2.1\launchwrapper-of-2.1.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\1.1\patchy-1.1.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\2.0.24\datafixerupper-2.0.24.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Ste-PC\AppData\Roaming\.minecraft\versions\OptiFine 1.14.4\OptiFine 1.14.4.jar -Dminecraft.applet.TargetDirectory=C:\Users\Ste-PC\AppData\Roaming\.minecraft -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true org.tlauncher.Launch --username Steven --version OptiFine 1.14.4 --gameDir C:\Users\Ste-PC\AppData\Roaming\.minecraft --assetsDir C:\Users\Ste-PC\AppData\Roaming\.minecraft\assets --assetIndex 1.14 --uuid 00000000-0000-0000-0000-000000000000 --accessToken null --userType legacy --versionType modified --width 925 --height 530 --tweakClass optifine.OptiFineTweaker --tweakClass org.tlauncher.tweaker.Tweaker
+2019-12-24 20:00:44,127 LoopedThread#8 [Launcher] Launching Minecraft...
+2019-12-24 20:00:44,128 LoopedThread#8 I'm hiding!
+2019-12-24 20:00:44,131 LoopedThread#8 [TLauncherManager] mods after 
+2019-12-24 20:00:44,132 LoopedThread#8 [InnerMinecraftServersImpl]  search changers of the servers
+2019-12-24 20:00:44,140 LoopedThread#8 read servers from servers.dat [Server(name=  §8/§7=§8[§aTeamExtreme§8]§7=§8\§f, address=Play.TeamExtremeMc.com, ip=Play.TeamExtremeMc.com, port=null, hideAddress=false, acceptTextures=0)]
+2019-12-24 20:00:44,143 LoopedThread#8 [InnerMinecraftServersImpl]  prepare inner servers
+2019-12-24 20:00:44,146 LoopedThread#8 save servers to servers.dat
+2019-12-24 20:00:44,150 LoopedThread#8 [Launcher] Starting Minecraft OptiFine 1.14.4...
+2019-12-24 20:00:44,151 LoopedThread#8 [Launcher] Launching in: C:\Users\Ste-PC\AppData\Roaming\.minecraft
+2019-12-24 20:00:44,152 LoopedThread#8 Starting garbage collector: 147 / 231 MB
+2019-12-24 20:00:44,293 LoopedThread#8 Garbage collector completed: 35 / 214 MB
+2019-12-24 20:00:44,305 LoopedThread#8 [Launcher] Processing post-launch actions. Assist launch: true
+2019-12-24 20:00:45,272 Thread-23 ===============================================================================================
+2019-12-24 20:00:45,274 Thread-23 > [20:00:45] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
+2019-12-24 20:00:45,276 Thread-23 > [20:00:45] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+2019-12-24 20:00:45,278 Thread-23 > [20:00:45] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+2019-12-24 20:00:45,280 Thread-23 > [main INFO] Tweaker: OptiFine detected.
+2019-12-24 20:00:45,281 Thread-23 > [20:00:45] [main/WARN]: Tweak class name org.tlauncher.tweaker.Tweaker has already been visited -- skipping
+2019-12-24 20:00:45,284 Thread-23 > [20:00:45] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+2019-12-24 20:00:45,286 Thread-23 > OptiFineTweaker: acceptOptions
+2019-12-24 20:00:45,287 Thread-23 > OptiFineTweaker: injectIntoClassLoader
+2019-12-24 20:00:45,288 Thread-23 > OptiFine ClassTransformer
+2019-12-24 20:00:45,289 Thread-23 > OptiFine ZIP file: C:\Users\Ste-PC\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.14.4_HD_U_F4\OptiFine-1.14.4_HD_U_F4.jar
+2019-12-24 20:00:45,297 Thread-23 > [20:00:45] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+2019-12-24 20:00:45,300 Thread-23 > Log Path: C:\Users\Ste-PC\AppData\Roaming\.minecraft\.\CustomSkinLoader\Tweaker.log
+2019-12-24 20:00:45,302 Thread-23 > [main INFO] Using Tweaker
+2019-12-24 20:00:45,303 Thread-23 > [main INFO] Tweaker: acceptOptions
+2019-12-24 20:00:45,303 Thread-23 > [main INFO] Tweaker: injectIntoClassLoader
+2019-12-24 20:00:45,310 Thread-23 > [TLSkinCape] Current Minecraft version is 1.14.4.
+2019-12-24 20:00:45,311 Thread-23 > [TLSkinCape] OptiFine detected.
+2019-12-24 20:00:45,312 Thread-23 > [main INFO] Hook method dmm#n()Lqv; loaded.
+2019-12-24 20:00:45,313 Thread-23 > [main INFO] Hook method dmm#m()Lqv; loaded.
+2019-12-24 20:00:45,314 Thread-23 > [main INFO] Hook method dmm#s()Ljava/lang/String; loaded.
+2019-12-24 20:00:45,316 Thread-23 > [main INFO] Hook method awg#a(Lawh;)Z loaded.
+2019-12-24 20:00:45,317 Thread-23 > [main INFO] Hook method dcp#render(IIF)V loaded.
+2019-12-24 20:00:45,318 Thread-23 > [main INFO] Loaded as a library.
+2019-12-24 20:00:45,319 Thread-23 > OptiFineTweaker: getLaunchArguments
+2019-12-24 20:00:45,320 Thread-23 > [main INFO] Tweaker: getLaunchArguments
+2019-12-24 20:00:45,334 Thread-23 > [20:00:45] [main/INFO]: Launching wrapped minecraft {org.tlauncher.Main}
+2019-12-24 20:00:45,688 ExtendedThread#13 java.net.SocketException: Network is unreachable: connect
+at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+at java.net.Socket.connect(Socket.java:589)
+at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168)
+at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1147)
+at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:998)
+at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932)
+at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1282)
+at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1257)
+at net.minecraft.launcher.Http.performPost(Http.java:121)
+at net.minecraft.launcher.Http.performPost(Http.java:139)
+at org.tlauncher.util.statistics.StatisticsUtil.send(StatisticsUtil.java:40)
+at org.tlauncher.util.statistics.StatisticsUtil.lambda$startSending$0(StatisticsUtil.java:29)
+at org.tlauncher.util.statistics.StatisticsUtil$$Lambda$280/1882116496.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+at org.tlauncher.util.async.RunnableThread.run(RunnableThread.java:15)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:21)
+at org.tlauncher.util.async.RunnableThread.<init>(RunnableThread.java:7)
+at org.tlauncher.util.async.AsyncThread$1.newThread(AsyncThread.java:12)
+at java.util.concurrent.ThreadPoolExecutor$Worker.<init>(ThreadPoolExecutor.java:612)
+at java.util.concurrent.ThreadPoolExecutor.addWorker(ThreadPoolExecutor.java:925)
+at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1368)
+at org.tlauncher.util.async.AsyncThread.execute(AsyncThread.java:17)
+at org.tlauncher.util.statistics.StatisticsUtil.startSending(StatisticsUtil.java:27)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:282)
+
+2019-12-24 20:00:45,835 Thread-23 > [Client thread INFO] [TLSkinCape] Method dcp.render(IIF)V successfully hooked.
+2019-12-24 20:00:45,856 Thread-23 > [Client thread INFO] [TLSkinCape] Method awg.a(Lawh;)Z successfully hooked.
+2019-12-24 20:00:45,871 Thread-23 > [Client thread INFO] [TLSkinCape] Method dmm.n()Lqv; successfully hooked.
+2019-12-24 20:00:45,872 Thread-23 > [Client thread INFO] [TLSkinCape] Method dmm.m()Lqv; successfully hooked.
+2019-12-24 20:00:45,873 Thread-23 > [Client thread INFO] [TLSkinCape] Method dmm.s()Ljava/lang/String; successfully hooked.
+2019-12-24 20:00:46,111 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] *** Reflector Forge ***
+2019-12-24 20:00:46,112 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+2019-12-24 20:00:46,114 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+2019-12-24 20:00:46,116 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+2019-12-24 20:00:46,118 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+2019-12-24 20:00:46,120 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+2019-12-24 20:00:46,121 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+2019-12-24 20:00:46,122 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+2019-12-24 20:00:46,124 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+2019-12-24 20:00:46,125 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+2019-12-24 20:00:46,126 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+2019-12-24 20:00:46,128 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+2019-12-24 20:00:46,130 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+2019-12-24 20:00:46,132 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+2019-12-24 20:00:46,135 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+2019-12-24 20:00:46,136 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event
+2019-12-24 20:00:46,138 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+2019-12-24 20:00:46,140 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+2019-12-24 20:00:46,142 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+2019-12-24 20:00:46,144 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+2019-12-24 20:00:46,147 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: dnv.getTexture
+2019-12-24 20:00:46,148 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: dpt.getModelData
+2019-12-24 20:00:46,150 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+2019-12-24 20:00:46,152 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+2019-12-24 20:00:46,155 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.canRenderInLayer
+2019-12-24 20:00:46,157 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+2019-12-24 20:00:46,160 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+2019-12-24 20:00:46,162 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+2019-12-24 20:00:46,164 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+2019-12-24 20:00:46,167 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+2019-12-24 20:00:46,169 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+2019-12-24 20:00:46,171 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluidState
+2019-12-24 20:00:46,172 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+2019-12-24 20:00:46,174 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+2019-12-24 20:00:46,175 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: ais.getTags
+2019-12-24 20:00:46,188 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Field not present: aix.NAMETAG_DISTANCE
+2019-12-24 20:00:46,190 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+2019-12-24 20:00:46,193 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: clj.getTags
+2019-12-24 20:00:46,195 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+2019-12-24 20:00:46,197 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+2019-12-24 20:00:46,199 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+2019-12-24 20:00:46,202 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+2019-12-24 20:00:46,204 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+2019-12-24 20:00:46,206 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+2019-12-24 20:00:46,208 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+2019-12-24 20:00:46,211 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+2019-12-24 20:00:46,213 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+2019-12-24 20:00:46,215 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.setKeyConflictContext
+2019-12-24 20:00:46,217 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.setKeyModifierAndCode
+2019-12-24 20:00:46,220 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.getKeyModifier
+2019-12-24 20:00:46,222 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeMod
+2019-12-24 20:00:46,225 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: dof.fromJson
+2019-12-24 20:00:46,226 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffect
+2019-12-24 20:00:46,229 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+2019-12-24 20:00:46,231 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+2019-12-24 20:00:46,234 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+2019-12-24 20:00:46,236 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: cvd$b.preDraw
+2019-12-24 20:00:46,238 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Method not present: cvd$b.postDraw
+2019-12-24 20:00:46,240 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
+2019-12-24 20:00:46,242 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeDimension
+2019-12-24 20:00:46,245 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.GuiModList
+2019-12-24 20:00:46,247 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+2019-12-24 20:00:46,250 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+2019-12-24 20:00:46,253 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+2019-12-24 20:00:46,255 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+2019-12-24 20:00:46,258 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+2019-12-24 20:00:46,259 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+2019-12-24 20:00:46,261 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+2019-12-24 20:00:46,263 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+2019-12-24 20:00:46,265 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+2019-12-24 20:00:46,267 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+2019-12-24 20:00:46,269 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+2019-12-24 20:00:46,272 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+2019-12-24 20:00:46,274 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+2019-12-24 20:00:46,276 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+2019-12-24 20:00:46,279 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+2019-12-24 20:00:46,281 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+2019-12-24 20:00:46,284 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+2019-12-24 20:00:46,288 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+2019-12-24 20:00:46,291 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+2019-12-24 20:00:46,294 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+2019-12-24 20:00:46,296 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+2019-12-24 20:00:46,299 Thread-23 > [20:00:46] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+2019-12-24 20:00:46,389 Thread-23 > [20:00:46] [main/INFO]: Setting user: Steven
+2019-12-24 20:00:50,412 Thread-23 > [20:00:50] [main/INFO]: [STDOUT]: [Connector] Init connector...
+2019-12-24 20:00:50,414 Thread-23 > [20:00:50] [main/INFO]: [STDOUT]: [Connector] Inited.
+2019-12-24 20:00:50,788 Thread-23 > [20:00:50] [main/INFO]: LWJGL Version: 3.2.2 build 10
+2019-12-24 20:00:51,474 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] 
+2019-12-24 20:00:51,475 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] OptiFine_1.14.4_HD_U_F4
+2019-12-24 20:00:51,476 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] Build: 20191025-153543
+2019-12-24 20:00:51,477 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] OS: Windows 8.1 (amd64) version 6.3
+2019-12-24 20:00:51,479 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+2019-12-24 20:00:51,480 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+2019-12-24 20:00:51,482 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+2019-12-24 20:00:51,484 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] OpenGL: Intel(R) UHD Graphics 630, version 4.5.0 - Build 24.20.100.6292, Intel
+2019-12-24 20:00:51,486 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] OpenGL Version: 4.5.0
+2019-12-24 20:00:51,487 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+2019-12-24 20:00:51,513 Thread-23 > [20:00:51] [main/INFO]: [OptiFine] Maximum texture size: 16384x16384
+2019-12-24 20:00:51,527 Thread-23 > [20:00:51] [VersionCheck/INFO]: [OptiFine] Checking for new version
+2019-12-24 20:00:51,549 Thread-23 > [20:00:51] [VersionCheck/INFO]: [OptiFine] java.net.UnknownHostException: optifine.net
+2019-12-24 20:00:51,554 Thread-23 > [20:00:51] [main/INFO]: [Shaders] OpenGL Version: 4.5.0 - Build 24.20.100.6292
+2019-12-24 20:00:51,556 Thread-23 > [20:00:51] [main/INFO]: [Shaders] Vendor:  Intel
+2019-12-24 20:00:51,558 Thread-23 > [20:00:51] [main/INFO]: [Shaders] Renderer: Intel(R) UHD Graphics 630
+2019-12-24 20:00:51,560 Thread-23 > [20:00:51] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+2019-12-24 20:00:51,562 Thread-23 > [20:00:51] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+2019-12-24 20:00:51,564 Thread-23 > [20:00:51] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+2019-12-24 20:00:51,567 Thread-23 > [20:00:51] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+2019-12-24 20:00:51,571 Thread-23 > [20:00:51] [main/INFO]: [Shaders] Load shaders configuration.
+2019-12-24 20:00:51,573 Thread-23 > [20:00:51] [main/INFO]: [Shaders] Save shaders configuration.
+2019-12-24 20:00:51,575 Thread-23 > [20:00:51] [main/INFO]: [Shaders] No shaderpack loaded.
+2019-12-24 20:00:52,682 Thread-23 > [20:00:52] [main/INFO]: Narrator library for x64 successfully loaded
+2019-12-24 20:00:52,777 Thread-23 > [20:00:52] [main/INFO]: [OptiFine] *** Reloading textures ***
+2019-12-24 20:00:52,779 Thread-23 > [20:00:52] [main/INFO]: [OptiFine] Resource packs: Default
+2019-12-24 20:00:59,915 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] Multitexture: false
+2019-12-24 20:00:59,923 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+2019-12-24 20:00:59,932 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+2019-12-24 20:00:59,935 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+2019-12-24 20:00:59,936 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+2019-12-24 20:00:59,938 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+2019-12-24 20:00:59,940 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+2019-12-24 20:00:59,942 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+2019-12-24 20:00:59,944 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+2019-12-24 20:00:59,946 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+2019-12-24 20:00:59,947 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+2019-12-24 20:00:59,949 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+2019-12-24 20:00:59,952 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+2019-12-24 20:00:59,954 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+2019-12-24 20:00:59,957 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+2019-12-24 20:00:59,959 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+2019-12-24 20:00:59,960 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+2019-12-24 20:00:59,962 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+2019-12-24 20:00:59,964 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+2019-12-24 20:00:59,967 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+2019-12-24 20:00:59,969 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+2019-12-24 20:00:59,971 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+2019-12-24 20:00:59,973 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+2019-12-24 20:00:59,974 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+2019-12-24 20:00:59,976 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+2019-12-24 20:00:59,977 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+2019-12-24 20:00:59,979 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+2019-12-24 20:00:59,981 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+2019-12-24 20:00:59,984 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+2019-12-24 20:00:59,986 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+2019-12-24 20:00:59,987 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+2019-12-24 20:00:59,989 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+2019-12-24 20:00:59,990 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+2019-12-24 20:00:59,992 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+2019-12-24 20:00:59,993 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+2019-12-24 20:00:59,994 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+2019-12-24 20:00:59,995 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+2019-12-24 20:00:59,996 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+2019-12-24 20:00:59,997 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] Multipass connected textures: false
+2019-12-24 20:00:59,998 Thread-23 > [20:00:59] [Server-Worker-2/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+2019-12-24 20:01:01,545 Thread-23 > [20:01:01] [Server-Worker-2/INFO]: [OptiFine] Mipmap levels: 4
+2019-12-24 20:01:03,333 Thread-23 > [20:01:03] [main/INFO]: OpenAL initialized.
+2019-12-24 20:01:03,334 Thread-23 > [20:01:03] [main/INFO]: Sound engine started
+2019-12-24 20:01:03,522 Thread-23 > [20:01:03] [main/INFO]: Created: 1024x512 textures-atlas
+2019-12-24 20:01:03,606 Thread-23 > [20:01:03] [main/INFO]: [OptiFine] Animated sprites: 33
+2019-12-24 20:01:03,998 Thread-23 > [20:01:03] [main/INFO]: Created: 256x256 textures/particle-atlas
+2019-12-24 20:01:04,005 Thread-23 > [20:01:04] [main/INFO]: Created: 256x256 textures/painting-atlas
+2019-12-24 20:01:04,007 Thread-23 > [20:01:04] [main/INFO]: Created: 128x128 textures/mob_effect-atlas
+2019-12-24 20:01:04,009 Thread-23 > [20:01:04] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+2019-12-24 20:01:04,057 Thread-23 > [20:01:04] [main/INFO]: [OptiFine] Disable Forge light pipeline
+2019-12-24 20:02:11,584 Thread-23 > [20:02:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2019-12-24 20:02:11,587 Thread-23 > [20:02:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2019-12-24 20:02:11,590 Thread-23 > [20:02:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2019-12-24 20:02:11,591 Thread-23 > [20:02:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2019-12-24 20:02:11,594 Thread-23 > [20:02:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2019-12-24 20:02:11,628 Thread-23 > [20:02:11] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+2019-12-24 20:02:11,629 Thread-23 > [20:02:11] [Server thread/INFO]: Generating keypair
+2019-12-24 20:02:11,725 Thread-23 > [20:02:11] [Server thread/INFO]: Reloading ResourceManager: Default
+2019-12-24 20:02:12,233 Thread-23 > [20:02:12] [Server thread/INFO]: Loaded 6 recipes
+2019-12-24 20:02:12,538 Thread-23 > [20:02:12] [Server thread/INFO]: Loaded 811 advancements
+2019-12-24 20:02:12,731 Thread-23 > [20:02:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+2019-12-24 20:02:13,540 Thread-23 > [20:02:13] [main/INFO]: Preparing spawn area: 0%
+2019-12-24 20:02:13,541 Thread-23 > [20:02:13] [main/INFO]: Preparing spawn area: 0%
+2019-12-24 20:02:13,773 Thread-23 > [20:02:13] [main/INFO]: Preparing spawn area: 27%
+2019-12-24 20:02:13,961 Thread-23 > [20:02:13] [main/INFO]: Time elapsed: 1204 ms
+2019-12-24 20:02:14,426 Thread-23 > [20:02:14] [Server thread/INFO]: Changing view distance to 14, from 10
+2019-12-24 20:02:15,021 Thread-23 > Dec 24, 2019 8:02:15 PM io.netty.util.internal.MacAddressUtil defaultMachineId
+2019-12-24 20:02:15,024 Thread-23 > WARNING: Failed to find a usable hardware address from the network interfaces; using random bytes: fb:ea:39:0f:98:03:3a:d0
+2019-12-24 20:02:15,564 Thread-23 > [20:02:15] [Server thread/INFO]: Steven[local:E:8a841be6] logged in with entity id 502 at (-700.4137836422991, 63.0, 149.5453498912501)
+2019-12-24 20:02:15,596 Thread-23 > [20:02:15] [Server thread/INFO]: Steven joined the game
+2019-12-24 20:02:15,814 Thread-23 > [20:02:15] [Texture Downloader #1/ERROR]: Couldn't download http texture: java.net.UnknownHostException: s.optifine.net
+2019-12-24 20:02:15,890 Thread-23 > [20:02:15] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:02:15,948 Thread-23 > [20:02:15] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:02:15,955 Thread-23 > [20:02:15] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:02:15,957 Thread-23 > [20:02:15] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:02:16,105 Thread-23 > [20:02:16] [main/INFO]: Loaded 538 advancements
+2019-12-24 20:02:16,202 Thread-23 > [20:02:16] [main/INFO]: [STDOUT]: [TLSkinCape] Current Minecraft version is 1.14.4.
+2019-12-24 20:02:16,204 Thread-23 > [20:02:16] [main/INFO]: [STDOUT]: [TLSkinCape] OptiFine detected.
+2019-12-24 20:02:17,393 Thread-23 > [20:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2449ms or 48 ticks behind
+2019-12-24 20:02:20,736 Thread-23 > [20:02:20] [pool-9-thread-1/WARN]: error displayName=Steven, name=Steven
+2019-12-24 20:02:20,738 Thread-23 > java.net.UnknownHostException: auth.tlauncher.org
+2019-12-24 20:02:20,740 Thread-23 > 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[?:1.8.0_51]
+2019-12-24 20:02:20,743 Thread-23 > 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_51]
+2019-12-24 20:02:20,745 Thread-23 > 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_51]
+2019-12-24 20:02:20,747 Thread-23 > 	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_51]
+2019-12-24 20:02:20,749 Thread-23 > 	at sun.net.NetworkClient.doConnect(NetworkClient.java:175) ~[?:1.8.0_51]
+2019-12-24 20:02:20,752 Thread-23 > 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432) ~[?:1.8.0_51]
+2019-12-24 20:02:20,754 Thread-23 > 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527) ~[?:1.8.0_51]
+2019-12-24 20:02:20,756 Thread-23 > 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211) ~[?:1.8.0_51]
+2019-12-24 20:02:20,758 Thread-23 > 	at sun.net.www.http.HttpClient.New(HttpClient.java:308) ~[?:1.8.0_51]
+2019-12-24 20:02:20,760 Thread-23 > 	at sun.net.www.http.HttpClient.New(HttpClient.java:326) ~[?:1.8.0_51]
+2019-12-24 20:02:20,762 Thread-23 > 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168) ~[?:1.8.0_51]
+2019-12-24 20:02:20,765 Thread-23 > 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104) ~[?:1.8.0_51]
+2019-12-24 20:02:20,768 Thread-23 > 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:998) ~[?:1.8.0_51]
+2019-12-24 20:02:20,773 Thread-23 > 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932) ~[?:1.8.0_51]
+2019-12-24 20:02:20,776 Thread-23 > 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512) ~[?:1.8.0_51]
+2019-12-24 20:02:20,780 Thread-23 > 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440) ~[?:1.8.0_51]
+2019-12-24 20:02:20,787 Thread-23 > 	at org.tlauncher.util.PreparedProfileManager.loadProfileData(PreparedProfileManager.java:298) ~[PreparedProfileManager.class:?]
+2019-12-24 20:02:20,795 Thread-23 > 	at org.tlauncher.util.PreparedProfileManager.loadProfileData0(PreparedProfileManager.java:269) ~[PreparedProfileManager.class:?]
+2019-12-24 20:02:20,801 Thread-23 > 	at org.tlauncher.util.PreparedProfileManager.lambda$loadByName$0(PreparedProfileManager.java:121) [PreparedProfileManager.class:?]
+2019-12-24 20:02:20,808 Thread-23 > 	at org.tlauncher.util.PreparedProfileManager$$Lambda$2840/1092274925.run(Unknown Source) [PreparedProfileManager.class:?]
+2019-12-24 20:02:20,812 Thread-23 > 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1618) [?:1.8.0_51]
+2019-12-24 20:02:20,815 Thread-23 > 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+2019-12-24 20:02:20,818 Thread-23 > 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+2019-12-24 20:02:20,821 Thread-23 > 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+2019-12-24 20:03:22,346 Thread-23 > [20:03:22] [main/INFO]: textures 'Steven' was added, skin: false,cape: false, max waiting: 2 ,during : 66133 
+2019-12-24 20:08:21,046 Thread-23 > [20:08:21] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:08:21,070 Thread-23 > [20:08:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:08:21,075 Thread-23 > [20:08:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:08:21,077 Thread-23 > [20:08:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:10:24,995 Thread-23 > [20:10:24] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:10:25,047 Thread-23 > [20:10:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:10:25,053 Thread-23 > [20:10:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:10:25,056 Thread-23 > [20:10:25] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:10:27,413 Thread-23 > [20:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+2019-12-24 20:12:36,195 Thread-23 > [20:12:36] [main/INFO]: [CHAT] [Debug]: Key bindings:
+2019-12-24 20:12:36,196 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + A = Reload chunks
+2019-12-24 20:12:36,196 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + B = Show hitboxes
+2019-12-24 20:12:36,197 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + C = Copy location as /tp command, hold F3 + C to crash the game
+2019-12-24 20:12:36,198 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + D = Clear chat
+2019-12-24 20:12:36,199 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + F = Cycle render distance (Shift to invert)
+2019-12-24 20:12:36,200 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + G = Show chunk boundaries
+2019-12-24 20:12:36,200 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + H = Advanced tooltips
+2019-12-24 20:12:36,201 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + I = Copy entity or block data to clipboard
+2019-12-24 20:12:36,202 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + N = Cycle creative <-> spectator
+2019-12-24 20:12:36,203 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + P = Pause on lost focus
+2019-12-24 20:12:36,203 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + Q = Show this list
+2019-12-24 20:12:36,205 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + T = Reload resource packs
+2019-12-24 20:12:36,205 Thread-23 > [20:12:36] [main/INFO]: [CHAT] F3 + Esc = Pause without pause menu (if pausing is possible)
+2019-12-24 20:12:41,676 Thread-23 > [20:12:41] [main/INFO]: [CHAT] [Debug]: Key bindings:
+2019-12-24 20:12:41,677 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + A = Reload chunks
+2019-12-24 20:12:41,678 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + B = Show hitboxes
+2019-12-24 20:12:41,678 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + C = Copy location as /tp command, hold F3 + C to crash the game
+2019-12-24 20:12:41,679 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + D = Clear chat
+2019-12-24 20:12:41,680 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + F = Cycle render distance (Shift to invert)
+2019-12-24 20:12:41,680 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + G = Show chunk boundaries
+2019-12-24 20:12:41,681 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + H = Advanced tooltips
+2019-12-24 20:12:41,682 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + I = Copy entity or block data to clipboard
+2019-12-24 20:12:41,683 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + N = Cycle creative <-> spectator
+2019-12-24 20:12:41,684 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + P = Pause on lost focus
+2019-12-24 20:12:41,684 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + Q = Show this list
+2019-12-24 20:12:41,685 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + T = Reload resource packs
+2019-12-24 20:12:41,686 Thread-23 > [20:12:41] [main/INFO]: [CHAT] F3 + Esc = Pause without pause menu (if pausing is possible)
+2019-12-24 20:12:42,276 Thread-23 > [20:12:42] [main/INFO]: [CHAT] [Debug]: Advanced tooltips: shown
+2019-12-24 20:12:43,842 Thread-23 > [20:12:43] [main/INFO]: [CHAT] [Debug]: Advanced tooltips: hidden
+2019-12-24 20:12:46,642 Thread-23 > [20:12:46] [main/INFO]: [CHAT] [Debug]: Chunk borders: shown
+2019-12-24 20:12:57,473 Thread-23 > [20:12:57] [main/INFO]: [CHAT] [Debug]: Chunk borders: hidden
+2019-12-24 20:17:03,445 Thread-23 > [20:17:03] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:17:03,469 Thread-23 > [20:17:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:17:03,474 Thread-23 > [20:17:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:17:03,475 Thread-23 > [20:17:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:17:06,161 Thread-23 > [20:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+2019-12-24 20:17:13,099 Thread-23 > [20:17:13] [Server thread/INFO]: Changing view distance to 62, from 14
+2019-12-24 20:17:18,444 Thread-23 > [20:17:18] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:17:18,506 Thread-23 > [20:17:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:17:18,508 Thread-23 > [20:17:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:17:18,509 Thread-23 > [20:17:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:17:23,152 Thread-23 > [20:17:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+2019-12-24 20:17:28,068 Thread-23 > [20:17:28] [Server thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+2019-12-24 20:17:43,116 Thread-23 > [20:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3071ms or 61 ticks behind
+2019-12-24 20:19:34,495 Thread-23 > [20:19:34] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:19:34,521 Thread-23 > [20:19:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:19:34,526 Thread-23 > [20:19:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:19:34,528 Thread-23 > [20:19:34] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:19:46,552 Thread-23 > [20:19:46] [Server thread/INFO]: Changing view distance to 16, from 62
+2019-12-24 20:22:58,372 Thread-23 > [20:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
+2019-12-24 20:23:16,996 Thread-23 > [20:23:16] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:23:17,018 Thread-23 > [20:23:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:23:17,023 Thread-23 > [20:23:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:23:17,024 Thread-23 > [20:23:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:26:30,710 Thread-23 > [20:26:30] [main/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain_setup' took aprox 138.5768 ms
+2019-12-24 20:26:30,715 Thread-23 > [20:26:30] [main/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 144.6543 ms
+2019-12-24 20:26:30,718 Thread-23 > [20:26:30] [main/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 145.948 ms
+2019-12-24 20:26:30,719 Thread-23 > [20:26:30] [main/WARN]: Something's taking too long! 'root' took aprox 148.5686 ms
+2019-12-24 20:26:45,909 Thread-23 > [20:26:45] [main/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain_setup' took aprox 140.0303 ms
+2019-12-24 20:26:45,913 Thread-23 > [20:26:45] [main/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 144.4172 ms
+2019-12-24 20:26:45,915 Thread-23 > [20:26:45] [main/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 145.6081 ms
+2019-12-24 20:26:45,916 Thread-23 > [20:26:45] [main/WARN]: Something's taking too long! 'root' took aprox 147.8086 ms
+2019-12-24 20:29:01,795 Thread-23 > [20:29:01] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:29:01,824 Thread-23 > [20:29:01] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:29:01,830 Thread-23 > [20:29:01] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:29:01,831 Thread-23 > [20:29:01] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:30:42,303 Thread-23 > [20:30:42] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+2019-12-24 20:30:45,601 Thread-23 > [20:30:45] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+2019-12-24 20:30:57,896 Thread-23 > [20:30:57] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:30:57,920 Thread-23 > [20:30:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:30:57,925 Thread-23 > [20:30:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:30:57,926 Thread-23 > [20:30:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 20:33:14,749 Thread-23 > [20:33:14] [main/INFO]: Loaded 538 advancements
+2019-12-24 20:33:22,899 Thread-23 > [20:33:22] [main/INFO]: Loaded 539 advancements
+2019-12-24 20:33:26,264 Thread-23 > [20:33:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+2019-12-24 20:38:29,137 Thread-23 > [20:38:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
+2019-12-24 20:52:44,995 Thread-23 > [20:52:44] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 20:52:45,052 Thread-23 > [20:52:45] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 20:52:45,065 Thread-23 > [20:52:45] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 20:52:45,069 Thread-23 > [20:52:45] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 21:05:40,324 Thread-23 > [21:05:40] [Server thread/INFO]: Steven fell from a high place
+2019-12-24 21:05:40,339 Thread-23 > [21:05:40] [main/INFO]: [CHAT] Steven fell from a high place
+2019-12-24 21:05:43,511 Thread-23 > [21:05:43] [Texture Downloader #2/ERROR]: Couldn't download http texture: java.net.UnknownHostException: s.optifine.net
+2019-12-24 21:10:06,828 Thread-23 > [21:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+2019-12-24 21:12:27,494 Thread-23 > [21:12:27] [main/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain_setup' took aprox 144.7707 ms
+2019-12-24 21:12:27,507 Thread-23 > [21:12:27] [main/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 158.1307 ms
+2019-12-24 21:12:27,508 Thread-23 > [21:12:27] [main/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 159.227301 ms
+2019-12-24 21:12:27,510 Thread-23 > [21:12:27] [main/WARN]: Something's taking too long! 'root' took aprox 163.7174 ms
+2019-12-24 21:12:52,321 Thread-23 > [21:12:52] [main/WARN]: Something's taking too long! 'root.gameRenderer.level.terrain_setup' took aprox 260.1465 ms
+2019-12-24 21:12:52,347 Thread-23 > [21:12:52] [main/WARN]: Something's taking too long! 'root.gameRenderer.level' took aprox 286.198799 ms
+2019-12-24 21:12:52,349 Thread-23 > [21:12:52] [main/WARN]: Something's taking too long! 'root.gameRenderer' took aprox 287.825601 ms
+2019-12-24 21:12:52,352 Thread-23 > [21:12:52] [main/WARN]: Something's taking too long! 'root' took aprox 293.369401 ms
+2019-12-24 21:38:36,795 Thread-23 > [21:38:36] [Server thread/INFO]: Saving and pausing game...
+2019-12-24 21:38:36,819 Thread-23 > [21:38:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 21:38:36,824 Thread-23 > [21:38:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 21:38:36,826 Thread-23 > [21:38:36] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 21:38:38,000 Thread-23 > [21:38:38] [Server thread/INFO]: Steven lost connection: Disconnected
+2019-12-24 21:38:38,001 Thread-23 > [21:38:38] [Server thread/INFO]: Steven left the game
+2019-12-24 21:38:38,019 Thread-23 > [21:38:38] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2019-12-24 21:38:38,030 Thread-23 > [21:38:38] [Server thread/INFO]: Stopping server
+2019-12-24 21:38:38,031 Thread-23 > [21:38:38] [Server thread/INFO]: Saving players
+2019-12-24 21:38:38,033 Thread-23 > [21:38:38] [Server thread/INFO]: Saving worlds
+2019-12-24 21:38:38,034 Thread-23 > [21:38:38] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+2019-12-24 21:38:38,036 Thread-23 > [21:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2019-12-24 21:38:38,038 Thread-23 > [21:38:38] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+2019-12-24 21:38:38,040 Thread-23 > [21:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2019-12-24 21:38:38,041 Thread-23 > [21:38:38] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+2019-12-24 21:38:38,426 Thread-23 > [21:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+2019-12-24 21:38:38,433 Thread-23 > [21:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2019-12-24 21:38:38,434 Thread-23 > [21:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2019-12-24 21:38:38,435 Thread-23 > [21:38:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+2019-12-24 21:38:39,173 Thread-23 > [21:38:39] [main/INFO]: Stopping!
+2019-12-24 21:38:40,070 Thread-23 Here I am!
+2019-12-24 21:38:40,116 Thread-23 [VersionManager] Refreshing versions locally...
+2019-12-24 21:38:40,132 Thread-23 [VersionManager] Versions has been refreshed (15 ms)
+2019-12-24 21:38:40,151 Thread-23 [Launcher] Minecraft closed with exit code: 0
+2019-12-24 21:38:40,153 LoopedThread#8 [Launcher] Launcher exited.
+2019-12-24 21:38:49,928 AWT-EventQueue-0 Good bye!
+2019-12-24 21:38:49,929 AWT-EventQueue-0 [TLauncherManager] before clearLibrary 
+2019-12-24 21:38:49,931 AWT-EventQueue-0 [TLauncherManager] written:  []
+2019-12-24 21:38:49,932 AWT-EventQueue-0 [TLauncherManager] after clearLibrary 

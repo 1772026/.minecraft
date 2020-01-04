@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2019-12-24 20:33:22 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2019-12-03 00:46:33 +0700"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-12-24 10:35:52 +0700"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2019-12-03 19:01:58 +0700"
@@ -640,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-12-23 18:21:23 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2019-12-06 16:02:28 +0700"
@@ -805,6 +823,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2019-12-06 19:03:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-12-23 23:01:32 +0700"
     },
     "done": true
   },
@@ -1222,6 +1246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-12-23 18:21:23 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2019-12-03 00:46:33 +0700"
@@ -1249,6 +1279,7 @@
       "minecraft:wooded_hills": "2019-12-02 00:40:29 +0700",
       "minecraft:giant_tree_taiga_hills": "2019-12-14 20:58:44 +0700",
       "minecraft:stone_shore": "2019-12-14 20:52:37 +0700",
+      "minecraft:swamp": "2019-12-24 20:33:14 +0700",
       "minecraft:plains": "2019-11-29 18:35:10 +0700"
     },
     "done": false
@@ -1262,6 +1293,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-12-08 16:48:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-12-23 18:22:24 +0700"
     },
     "done": true
   },
@@ -1397,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2019-12-23 21:03:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2019-12-06 08:21:56 +0700"
@@ -1430,6 +1473,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-12-02 23:45:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-12-23 23:01:32 +0700"
     },
     "done": true
   },
@@ -1526,6 +1575,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2019-12-03 23:46:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-12-23 18:21:23 +0700"
     },
     "done": true
   },
@@ -1764,6 +1819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2019-12-24 09:56:38 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-12-03 00:46:05 +0700"
@@ -1814,14 +1875,18 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-12-24 11:39:05 +0700",
       "chicken": "2019-12-07 15:26:39 +0700",
       "cooked_mutton": "2019-12-05 22:24:03 +0700",
       "apple": "2019-12-07 09:00:16 +0700",
       "cooked_cod": "2019-12-07 14:17:43 +0700",
+      "pumpkin_pie": "2019-12-23 22:15:12 +0700",
       "bread": "2019-12-07 14:33:19 +0700",
+      "golden_apple": "2019-12-23 22:02:03 +0700",
       "rotten_flesh": "2019-12-02 00:40:49 +0700",
       "dried_kelp": "2019-12-13 07:59:48 +0700",
       "beetroot": "2019-12-11 10:38:34 +0700",
+      "golden_carrot": "2019-12-23 18:30:04 +0700",
       "cooked_chicken": "2019-12-02 00:35:36 +0700",
       "cod": "2019-12-07 16:11:33 +0700",
       "cooked_salmon": "2019-12-06 11:20:24 +0700",
@@ -2249,6 +2314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-12-23 23:01:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_at_least_9_dried_kelp": "2019-12-13 08:04:14 +0700"
@@ -2294,6 +2365,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-12-03 00:48:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-12-23 23:01:32 +0700"
     },
     "done": true
   },
@@ -2540,6 +2617,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-12-03 00:48:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-12-23 23:01:32 +0700"
     },
     "done": true
   },

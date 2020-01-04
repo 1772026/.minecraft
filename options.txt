@@ -16,10 +16,10 @@ showSubtitles:false
 touchscreen:false
 fullscreen:false
 bobView:true
-mouseSensitivity:0.33900266463646744
+mouseSensitivity:0.33900266885757446
 fov:0.0
 gamma:0.0
-renderDistance:16
+renderDistance:18
 guiScale:0
 particles:0
 maxFps:260

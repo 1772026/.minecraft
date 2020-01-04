@@ -1408,3 +1408,62 @@ C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe -Djava
 2019-12-11 12:20:03,446 AWT-EventQueue-0 [TLauncherManager] before clearLibrary 
 2019-12-11 12:20:03,449 AWT-EventQueue-0 [TLauncherManager] written:  []
 2019-12-11 12:20:03,450 AWT-EventQueue-0 [TLauncherManager] after clearLibrary 
+2019-12-18 19:31:37,094 main [Loading] INITIALIZING
+Starting TLauncher 2.67 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: Dec 18, 2019 7:31:35 PM
+---
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\Ste-PC\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 12162 MB RAM
+java path=C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+ Intel(R) UHD Graphics 630, Intel(R) UHD Graphics Family, 6209 MB, NVIDIA GeForce GTX 1050, GeForce GTX 1050, 10102 MB
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2019-12-18 19:31:37,094 main [Downloader2] Loaded configuration: good
+2019-12-18 19:31:37,232 ExtendedThread#4 [Updater] Requesting an update...
+2019-12-18 19:31:37,235 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-12-18 19:31:37,236 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.67&client=49fddef2-7fd7-4e1b-b03a-a2418f93b47d
+2019-12-18 19:31:37,839 main [Browser] Loading resources...
+2019-12-18 19:31:37,943 main [Browser] Loading background...
+2019-12-18 19:31:37,972 main [Browser] Cleaning up after loading:
+2019-12-18 19:31:37,972 main Starting garbage collector: 24 / 153 MB
+2019-12-18 19:31:38,017 main Garbage collector completed: 13 / 153 MB
+2019-12-18 19:31:38,019 main [Loading] LOADING_MANAGERS
+2019-12-18 19:31:38,025 main [LocalVersionList] Base directory: C:\Users\Ste-PC\AppData\Roaming\.minecraft
+2019-12-18 19:31:38,036 main [ProfileManager] Refreshing profiles from: C:\Users\Ste-PC\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2019-12-18 19:31:38,069 main [AdvertisingStatusObserver]  started to get ad information
+2019-12-18 19:31:38,069 main [AdvertisingStatusObserver]  finished to get add information
+2019-12-18 19:31:38,074 main [Loading] LOADING_WINDOW
+2019-12-18 19:31:38,154 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.5.json
+2019-12-18 19:31:38,176 main [Loading] PREPARING_MAINPANE
+2019-12-18 19:31:38,805 ExtendedThread#7 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 651 ms.
+2019-12-18 19:31:38,892 ExtendedThread#4 [Updater] Request time: 1657 ms
+2019-12-18 19:31:38,893 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-12-18 19:31:39,794 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2019-12-18 19:31:39,798 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2019-12-18 19:31:39,798 JavaFX Application Thread [Browser] Preparing JavaFX...
+2019-12-18 19:31:39,916 JavaFX Application Thread [Browser] Initializing...
+2019-12-18 19:31:43,104 main [Downloader2] Loaded configuration: good
+2019-12-18 19:31:44,937 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 5
+2019-12-18 19:31:44,938 JavaFX Application Thread [Browser@1926048353] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2019-12-18 19:31:45,054 JavaFX Application Thread [Browser] add listens into server_choose
+2019-12-18 19:31:45,055 JavaFX Application Thread [Browser] finished listens into server_choose
+2019-12-18 19:31:55,161 ExtendedThread#4 [Update:2.68] Set state: DOWNLOADING
+2019-12-18 19:31:55,161 ExtendedThread#4 [Update:2.68] dest C:\Users\Ste-PC\AppData\Roaming\.minecraft\TLauncher.exe.update
+2019-12-18 19:31:55,163 ExtendedThread#4 [Update:2.68] url: http://dl2.tlrepo.com/client/TLauncher-2.68.exe
+2019-12-18 19:31:55,163 MD#3 [Downloader2] Files in queue 1
+2019-12-18 19:31:55,164 MD#3 [Downloader2] Starting download 1 files...
+2019-12-18 19:31:55,265 DT#1#10 [D#1] >  http://dl2.tlrepo.com/client/TLauncher-2.68.exe 
+2019-12-18 19:32:04,297 DT#1#10 [Update:2.68] Set state: READY
+2019-12-18 19:32:04,438 DT#1#10 [Double running] clear time label
+2019-12-18 19:32:04,438 DT#1#10 [Update:2.68] Set state: APPLYING
+2019-12-18 19:32:04,447 DT#1#10 [Bootstrapper] choose jvm for restart:C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-12-18 19:32:04,513 DT#1#10 Good bye!

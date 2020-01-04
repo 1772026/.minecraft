@@ -134,3 +134,72 @@
 2019-12-11 09:18:32,399 Thread-2 > Started! (7954 ms.)
 2019-12-11 09:18:32,400 Thread-2 > [Loading] SUCCESS
 2019-12-11 09:18:32,400 Thread-2 [Bootstrapper] I can be terminated now: 0
+2019-12-18 19:31:28,536 main 
+2019-12-18 19:31:28,537 main -------------------------------------------------------------------
+2019-12-18 19:31:29,963 main [Downloader2] Loaded configuration: normal
+2019-12-18 19:31:31,319 main [Bootstrapper] createLauncher
+2019-12-18 19:31:31,319 main path C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51
+2019-12-18 19:31:31,319 main [Bootstrapper] choose jvm:C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-12-18 19:31:31,320 main [Bootstrapper] validate files
+2019-12-18 19:31:31,321 main [Bootstrapper] end validated files
+2019-12-18 19:31:31,321 main [Bootstrapper] Starting launcher...
+2019-12-18 19:31:32,791 Thread-2 > [TLAUNCHER][STATIC] initialize inner config
+2019-12-18 19:31:32,831 Thread-2 > [Loading] INITIALIZING
+2019-12-18 19:31:35,558 Thread-2 > Starting TLauncher 2.67 RELEASE
+2019-12-18 19:31:35,559 Thread-2 > For more information, visit https://tlauncher.org/
+2019-12-18 19:31:35,559 Thread-2 > Startup time: Dec 18, 2019 7:31:35 PM
+2019-12-18 19:31:35,559 Thread-2 > ---
+2019-12-18 19:31:36,264 Thread-2 > [Loading] LOADING_CONFIGURATION
+2019-12-18 19:31:36,264 Thread-2 > Loading configuration from file: C:\Users\Ste-PC\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+2019-12-18 19:31:36,307 Thread-2 > [Configuration] Constant values: {}
+2019-12-18 19:31:36,338 Thread-2 > Machine info: -------------------------------------------------------
+2019-12-18 19:31:36,339 Thread-2 > Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 12162 MB RAM
+2019-12-18 19:31:36,339 Thread-2 > java path=C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-12-18 19:31:36,339 Thread-2 > Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+2019-12-18 19:31:36,339 Thread-2 >  Intel(R) UHD Graphics 630, Intel(R) UHD Graphics Family, 6209 MB, NVIDIA GeForce GTX 1050, GeForce GTX 1050, 10102 MB
+2019-12-18 19:31:36,339 Thread-2 > -------------------------------------------------------
+2019-12-18 19:31:36,339 Thread-2 > Selected locale: en_US
+2019-12-18 19:31:36,409 Thread-2 > [Loading] LOADING_CONSOLE
+2019-12-18 19:31:36,758 Thread-2 > [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2019-12-18 19:31:37,007 Thread-2 > 
+2019-12-18 19:31:37,095 Thread-2 > [Downloader2] Loaded configuration: good
+2019-12-18 19:31:37,233 Thread-2 > [Updater] Requesting an update...
+2019-12-18 19:31:37,236 Thread-2 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-12-18 19:31:37,237 Thread-2 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.67&client=49fddef2-7fd7-4e1b-b03a-a2418f93b47d
+2019-12-18 19:31:37,839 Thread-2 > [Browser] Loading resources...
+2019-12-18 19:31:37,943 Thread-2 > [Browser] Loading background...
+2019-12-18 19:31:37,972 Thread-2 > [Browser] Cleaning up after loading:
+2019-12-18 19:31:37,972 Thread-2 > Starting garbage collector: 24 / 153 MB
+2019-12-18 19:31:38,018 Thread-2 > Garbage collector completed: 13 / 153 MB
+2019-12-18 19:31:38,020 Thread-2 > [Loading] LOADING_MANAGERS
+2019-12-18 19:31:38,026 Thread-2 > [LocalVersionList] Base directory: C:\Users\Ste-PC\AppData\Roaming\.minecraft
+2019-12-18 19:31:38,036 Thread-2 > [ProfileManager] Refreshing profiles from: C:\Users\Ste-PC\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2019-12-18 19:31:38,069 Thread-2 > [AdvertisingStatusObserver]  started to get ad information
+2019-12-18 19:31:38,070 Thread-2 > [AdvertisingStatusObserver]  finished to get add information
+2019-12-18 19:31:38,074 Thread-2 > [Loading] LOADING_WINDOW
+2019-12-18 19:31:38,155 Thread-2 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.5.json
+2019-12-18 19:31:38,176 Thread-2 > [Loading] PREPARING_MAINPANE
+2019-12-18 19:31:38,805 Thread-2 > [REPO][SERVER_LIST_REPO] Success: Reached the repo in 651 ms.
+2019-12-18 19:31:38,893 Thread-2 > [Updater] Request time: 1657 ms
+2019-12-18 19:31:38,893 Thread-2 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-12-18 19:31:39,794 Thread-2 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2019-12-18 19:31:39,798 Thread-2 > [Browser] Running in JavaFX Thread
+2019-12-18 19:31:39,799 Thread-2 > [Browser] Preparing JavaFX...
+2019-12-18 19:31:39,916 Thread-2 > [Browser] Initializing...
+2019-12-18 19:31:43,104 Thread-2 > [Downloader2] Loaded configuration: good
+2019-12-18 19:31:44,937 Thread-2 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 5
+2019-12-18 19:31:44,938 Thread-2 > [Browser@1926048353] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2019-12-18 19:31:45,055 Thread-2 > [Browser] add listens into server_choose
+2019-12-18 19:31:45,055 Thread-2 > [Browser] finished listens into server_choose
+2019-12-18 19:31:55,161 Thread-2 > [Update:2.68] Set state: DOWNLOADING
+2019-12-18 19:31:55,162 Thread-2 > [Update:2.68] dest C:\Users\Ste-PC\AppData\Roaming\.minecraft\TLauncher.exe.update
+2019-12-18 19:31:55,163 Thread-2 > [Update:2.68] url: http://dl2.tlrepo.com/client/TLauncher-2.68.exe
+2019-12-18 19:31:55,164 Thread-2 > [Downloader2] Files in queue 1
+2019-12-18 19:31:55,164 Thread-2 > [Downloader2] Starting download 1 files...
+2019-12-18 19:31:55,265 Thread-2 > [D#1] >  http://dl2.tlrepo.com/client/TLauncher-2.68.exe 
+2019-12-18 19:32:04,298 Thread-2 > [Update:2.68] Set state: READY
+2019-12-18 19:32:04,438 Thread-2 > [Double running] clear time label
+2019-12-18 19:32:04,439 Thread-2 > [Update:2.68] Set state: APPLYING
+2019-12-18 19:32:04,448 Thread-2 > [Bootstrapper] choose jvm for restart:C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+2019-12-18 19:32:04,513 Thread-2 > Good bye!
+2019-12-18 19:32:05,001 Thread-2 [Bootstrapper] I can be terminated now: 0
