@@ -1221,3 +1221,84 @@ C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe -Djava
 2019-12-18 20:27:18,391 AWT-EventQueue-0 [TLauncherManager] before clearLibrary 
 2019-12-18 20:27:18,394 AWT-EventQueue-0 [TLauncherManager] written:  []
 2019-12-18 20:27:18,395 AWT-EventQueue-0 [TLauncherManager] after clearLibrary 
+2020-01-09 14:06:02,732 main [Loading] INITIALIZING
+Starting TLauncher 2.68 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: Jan 9, 2020 2:06:01 PM
+---
+run double running protectin
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\Ste-PC\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 12162 MB RAM
+java path=C:\Users\Ste-PC\AppData\Roaming\.tlauncher\jvms\jre1.8.0_51\bin\javaw.exe
+Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+ Intel(R) UHD Graphics 630, Intel(R) UHD Graphics Family, 6209 MB, NVIDIA GeForce GTX 1050, GeForce GTX 1050, 10102 MB
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2020-01-09 14:06:02,732 main [Downloader2] Loaded configuration: good
+2020-01-09 14:06:02,854 ExtendedThread#4 [Updater] Requesting an update...
+2020-01-09 14:06:02,856 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-01-09 14:06:02,857 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.68&client=49fddef2-7fd7-4e1b-b03a-a2418f93b47d
+2020-01-09 14:06:03,373 ExtendedThread#4 [Updater] Request time: 517 ms
+2020-01-09 14:06:03,373 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-01-09 14:06:03,977 main [Browser] Loading resources...
+2020-01-09 14:06:04,090 main [Browser] Loading background...
+2020-01-09 14:06:04,122 main [Browser] Cleaning up after loading:
+2020-01-09 14:06:04,122 main Starting garbage collector: 26 / 152 MB
+2020-01-09 14:06:04,174 main Garbage collector completed: 13 / 152 MB
+2020-01-09 14:06:04,176 main [Loading] LOADING_MANAGERS
+2020-01-09 14:06:04,181 main [LocalVersionList] Base directory: C:\Users\Ste-PC\AppData\Roaming\.minecraft
+2020-01-09 14:06:04,189 main [ProfileManager] Refreshing profiles from: C:\Users\Ste-PC\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2020-01-09 14:06:04,198 main [AdvertisingStatusObserver]  started to get ad information
+2020-01-09 14:06:04,198 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-01-09 14:06:04,198 main [AdvertisingStatusObserver]  finished to get add information
+2020-01-09 14:06:04,203 main [Loading] LOADING_WINDOW
+2020-01-09 14:06:04,404 main [Loading] PREPARING_MAINPANE
+2020-01-09 14:06:04,604 ExtendedThread#6 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 401 ms.
+2020-01-09 14:06:05,174 main [Downloader2] Loaded configuration: good
+2020-01-09 14:06:06,628 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2020-01-09 14:06:06,633 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2020-01-09 14:06:06,633 JavaFX Application Thread [Browser] Preparing JavaFX...
+2020-01-09 14:06:06,970 JavaFX Application Thread [Browser] Initializing...
+2020-01-09 14:06:07,243 main [Loading] POSTINIT_GUI
+2020-01-09 14:06:07,243 main [Frame] Packing main frame...
+2020-01-09 14:06:07,403 main [Frame] Resizing main pane...
+2020-01-09 14:06:07,410 main Updater is already closed. Showing up...
+2020-01-09 14:06:07,411 main Visibility set.
+2020-01-09 14:06:07,412 main [Loading] REFRESHING_INFO
+2020-01-09 14:06:07,416 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2020-01-09 14:06:07,417 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-01-09 14:06:07,419 main Started! (5425 ms.)
+2020-01-09 14:06:07,419 main [Loading] SUCCESS
+2020-01-09 14:06:07,464 main [TLauncher] show tlauncher!!!
+2020-01-09 14:06:07,465 main [Double running] clear time label
+2020-01-09 14:06:07,751 AsyncObject#12 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+2020-01-09 14:06:07,754 AsyncObject#14 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2020-01-09 14:06:07,762 AsyncObject#13 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-01-09 14:06:08,062 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 645 ms.
+2020-01-09 14:06:08,261 AsyncObject#14 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 498 ms.
+2020-01-09 14:06:08,268 AsyncObject#13 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 499 ms.
+2020-01-09 14:06:08,277 AsyncObject#14 [SkinVersionList] Got in 526 ms
+2020-01-09 14:06:08,297 AsyncObject#13 [ExtraVersionList] Got in 546 ms
+2020-01-09 14:06:08,729 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 2
+2020-01-09 14:06:08,732 JavaFX Application Thread [Browser@17400105] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2020-01-09 14:06:08,766 AsyncObject#12 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 1012 ms.
+2020-01-09 14:06:08,833 AsyncObject#12 [OfficialVersionList] Got in 1082 ms
+2020-01-09 14:06:08,834 ExtendedThread#4 [VersionManager] Versions has been refreshed (1233 ms)
+2020-01-09 14:06:08,904 JavaFX Application Thread [Browser] add listens into server_choose
+2020-01-09 14:06:08,906 JavaFX Application Thread [Browser] finished listens into server_choose
+2020-01-09 14:06:08,930 ExtendedThread#17 [REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+2020-01-09 14:06:08,935 ExtendedThread#16 [REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+2020-01-09 14:06:08,949 Thread-23 run server on  37842
+2020-01-09 14:06:09,276 ExtendedThread#16 [REPO][HOT_SERVERS_REPO] Success: Reached the repo in 336 ms.
+2020-01-09 14:06:09,335 ExtendedThread#17 [REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 403 ms.
+2020-01-09 14:06:12,458 AWT-EventQueue-0 Good bye!
+2020-01-09 14:06:12,460 AWT-EventQueue-0 [TLauncherManager] before clearLibrary 
+2020-01-09 14:06:12,464 AWT-EventQueue-0 [TLauncherManager] written:  []
+2020-01-09 14:06:12,465 AWT-EventQueue-0 [TLauncherManager] after clearLibrary 

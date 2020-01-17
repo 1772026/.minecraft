@@ -1,15 +1,15 @@
-[2019-12-24 20:00:45] [main INFO] Using Tweaker
-[2019-12-24 20:00:45] [main INFO] Tweaker: acceptOptions
-[2019-12-24 20:00:45] [main INFO] Tweaker: injectIntoClassLoader
-[2019-12-24 20:00:45] [main INFO] Hook method dmm#n()Lqv; loaded.
-[2019-12-24 20:00:45] [main INFO] Hook method dmm#m()Lqv; loaded.
-[2019-12-24 20:00:45] [main INFO] Hook method dmm#s()Ljava/lang/String; loaded.
-[2019-12-24 20:00:45] [main INFO] Hook method awg#a(Lawh;)Z loaded.
-[2019-12-24 20:00:45] [main INFO] Hook method dcp#render(IIF)V loaded.
-[2019-12-24 20:00:45] [main INFO] Loaded as a library.
-[2019-12-24 20:00:45] [main INFO] Tweaker: getLaunchArguments
-[2019-12-24 20:00:45] [Client thread INFO] [TLSkinCape] Method dcp.render(IIF)V successfully hooked.
-[2019-12-24 20:00:45] [Client thread INFO] [TLSkinCape] Method awg.a(Lawh;)Z successfully hooked.
-[2019-12-24 20:00:45] [Client thread INFO] [TLSkinCape] Method dmm.n()Lqv; successfully hooked.
-[2019-12-24 20:00:45] [Client thread INFO] [TLSkinCape] Method dmm.m()Lqv; successfully hooked.
-[2019-12-24 20:00:45] [Client thread INFO] [TLSkinCape] Method dmm.s()Ljava/lang/String; successfully hooked.
+[2020-01-17 22:12:59] [main INFO] Using Tweaker
+[2020-01-17 22:12:59] [main INFO] Tweaker: acceptOptions
+[2020-01-17 22:12:59] [main INFO] Tweaker: injectIntoClassLoader
+[2020-01-17 22:12:59] [main INFO] Hook method dmm#n()Lqv; loaded.
+[2020-01-17 22:12:59] [main INFO] Hook method dmm#m()Lqv; loaded.
+[2020-01-17 22:12:59] [main INFO] Hook method dmm#s()Ljava/lang/String; loaded.
+[2020-01-17 22:12:59] [main INFO] Hook method awg#a(Lawh;)Z loaded.
+[2020-01-17 22:12:59] [main INFO] Hook method dcp#render(IIF)V loaded.
+[2020-01-17 22:12:59] [main INFO] Loaded as a library.
+[2020-01-17 22:12:59] [main INFO] Tweaker: getLaunchArguments
+[2020-01-17 22:12:59] [Client thread INFO] [TLSkinCape] Method dcp.render(IIF)V successfully hooked.
+[2020-01-17 22:12:59] [Client thread INFO] [TLSkinCape] Method dmm.n()Lqv; successfully hooked.
+[2020-01-17 22:12:59] [Client thread INFO] [TLSkinCape] Method dmm.m()Lqv; successfully hooked.
+[2020-01-17 22:12:59] [Client thread INFO] [TLSkinCape] Method dmm.s()Ljava/lang/String; successfully hooked.
+[2020-01-17 22:12:59] [Client thread INFO] [TLSkinCape] Method awg.a(Lawh;)Z successfully hooked.

@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 12/23/2019, 14:40:08
+      Time of this report: 1/8/2020, 11:47:02
              Machine name: STE-PC
                Machine Id: {E413A520-36D0-4C5C-A636-235DE10087CE}
          Operating System: Windows 10 Pro 64-bit (10.0, Build 18362) (18362.19h1_release.190318-1202)
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz (8 CPUs), ~2.3GHz
                    Memory: 12288MB RAM
       Available OS Memory: 12162MB RAM
-                Page File: 5840MB used, 49586MB available
+                Page File: 9190MB used, 46235MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -482,7 +482,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 124.8 GB
+ Free Space: 117.5 GB
 Total Space: 349.2 GB
 File System: NTFS
       Model: Intel Optane+932GBHDD
@@ -494,7 +494,7 @@ File System: NTFS
       Model: Intel Optane+932GBHDD
 
       Drive: E:
- Free Space: 56.5 GB
+ Free Space: 48.0 GB
 Total Space: 359.4 GB
 File System: NTFS
       Model: Intel Optane+932GBHDD
@@ -1359,7 +1359,7 @@ Disabled Media Sources
 ---------------
 EVR Power Information
 ---------------
-Current Setting: {651288E5-A7ED-4076-A96B-6CC62D848FE1} (Balanced)
+Current Setting: {5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) 
   Quality Flags: 2576
     Enabled:
     Force throttling
@@ -1387,21 +1387,21 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 2130095373056236460, type 5
-Event Name: CLR20r3
+Fault bucket 1448785706722227461, type 5
+Event Name: RADAR_PRE_LEAK_WOW64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: ymc.exe
-P2: 2.0.0.9
-P3: 585cbd99
-P4: System.Management
-P5: 4.8.3752.0
-P6: 5c7a241f
-P7: 8a
-P8: 51
-P9: PSZQOADHX1U5ZAHBHOHGHLDGIY4QIXHX
+P1: JavaFX Scene Builder 2.0.exe
+P2: 0.0.0.0
+P3: 10.0.18362.2.0.0
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
 P10: 
 
 
@@ -1425,7 +1425,7 @@ P10:
 
 
 +++ WER2 +++:
-Fault bucket , type 0
+Fault bucket 2130095373056236460, type 5
 Event Name: CLR20r3
 Response: Not available
 Cab Id: 0
@@ -1444,7 +1444,7 @@ P10:
 
 
 +++ WER3 +++:
-Fault bucket , type 0
+Fault bucket 2130095373056236460, type 5
 Event Name: CLR20r3
 Response: Not available
 Cab Id: 0
@@ -1463,7 +1463,7 @@ P10:
 
 
 +++ WER4 +++:
-Fault bucket , type 0
+Fault bucket 2130095373056236460, type 5
 Event Name: CLR20r3
 Response: Not available
 Cab Id: 0
@@ -1482,7 +1482,7 @@ P10:
 
 
 +++ WER5 +++:
-Fault bucket , type 0
+Fault bucket 2269267404938446783, type 5
 Event Name: CLR20r3
 Response: Not available
 Cab Id: 0
@@ -1494,85 +1494,85 @@ P3: 585cbd99
 P4: System.Management
 P5: 4.8.3752.0
 P6: 5c7a241f
-P7: 8a
-P8: 51
-P9: PSZQOADHX1U5ZAHBHOHGHLDGIY4QIXHX
+P7: 8c
+P8: 3f
+P9: System.Management.Management
 P10: 
 
 
 +++ WER6 +++:
-Fault bucket , type 0
-Event Name: CLR20r3
+Fault bucket 2132579990422717148, type 5
+Event Name: AppHangB1
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: ymc.exe
-P2: 2.0.0.9
-P3: 585cbd99
-P4: System.Management
-P5: 4.8.3752.0
-P6: 5c7a241f
-P7: 8a
-P8: 51
-P9: PSZQOADHX1U5ZAHBHOHGHLDGIY4QIXHX
+P1: phpstorm64.exe
+P2: 2019.2.3.0
+P3: 5d46fe9d
+P4: f30e
+P5: 67246080
+P6: 
+P7: 
+P8: 
+P9: 
 P10: 
 
 
 +++ WER7 +++:
 Fault bucket , type 0
-Event Name: CLR20r3
+Event Name: AppHangB1
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: ymc.exe
-P2: 2.0.0.9
-P3: 585cbd99
-P4: System.Management
-P5: 4.8.3752.0
-P6: 5c7a241f
-P7: 8a
-P8: 51
-P9: PSZQOADHX1U5ZAHBHOHGHLDGIY4QIXHX
+P1: phpstorm64.exe
+P2: 2019.2.3.0
+P3: 5d46fe9d
+P4: f30e
+P5: 67246080
+P6: 
+P7: 
+P8: 
+P9: 
 P10: 
 
 
 +++ WER8 +++:
-Fault bucket , type 0
-Event Name: CLR20r3
+Fault bucket 1939266839573271082, type 5
+Event Name: AppHangB1
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: ymc.exe
-P2: 2.0.0.9
-P3: 585cbd99
-P4: System.Management
-P5: 4.8.3752.0
-P6: 5c7a241f
-P7: 8a
-P8: 51
-P9: PSZQOADHX1U5ZAHBHOHGHLDGIY4QIXHX
+P1: phpstorm64.exe
+P2: 2019.2.3.0
+P3: 5d46fe9d
+P4: f30e
+P5: 67247104
+P6: 
+P7: 
+P8: 
+P9: 
 P10: 
 
 
 +++ WER9 +++:
 Fault bucket , type 0
-Event Name: CLR20r3
+Event Name: AppHangB1
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: ymc.exe
-P2: 2.0.0.9
-P3: 585cbd99
-P4: System.Management
-P5: 4.8.3752.0
-P6: 5c7a241f
-P7: 8a
-P8: 51
-P9: PSZQOADHX1U5ZAHBHOHGHLDGIY4QIXHX
+P1: phpstorm64.exe
+P2: 2019.2.3.0
+P3: 5d46fe9d
+P4: f30e
+P5: 67247104
+P6: 
+P7: 
+P8: 
+P9: 
 P10: 
 
 
