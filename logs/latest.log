@@ -1,25 +1,304 @@
-[00:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
-[00:30:34] [Server thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
-[00:32:49] [Server thread/INFO]: Steven was shot by Skeleton
-[00:32:49] [main/INFO]: [CHAT] Steven was shot by Skeleton
-[00:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
-[00:35:54] [Server thread/INFO]: Saving and pausing game...
-[00:35:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:35:55] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:35:56] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:35:57] [Server thread/INFO]: Steven lost connection: Disconnected
-[00:35:57] [Server thread/INFO]: Steven left the game
-[00:35:57] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[00:35:57] [Server thread/INFO]: Stopping server
-[00:35:57] [Server thread/INFO]: Saving players
-[00:35:57] [Server thread/INFO]: Saving worlds
-[00:35:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
-[00:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:35:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
-[00:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
-[00:35:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
-[00:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
-[00:35:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:35:59] [main/INFO]: Stopping!
+[18:10:50] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[18:10:50] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[18:10:50] [main/WARN]: Tweak class name org.tlauncher.tweaker.Tweaker has already been visited -- skipping
+[18:10:50] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[18:10:50] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+[18:10:50] [main/INFO]: Launching wrapped minecraft {org.tlauncher.Main}
+[18:10:51] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: dnv.getTexture
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: dpt.getModelData
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.canRenderInLayer
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluidState
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: ais.getTags
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Field not present: aix.NAMETAG_DISTANCE
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: clj.getTags
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.setKeyConflictContext
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.setKeyModifierAndCode
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.getKeyModifier
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeMod
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: dof.fromJson
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffect
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: cvd$b.preDraw
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Method not present: cvd$b.postDraw
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeDimension
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.GuiModList
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[18:10:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[18:10:51] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[18:10:51] [main/INFO]: Setting user: Steven
+[18:10:56] [main/INFO]: [STDOUT]: [Connector] Init connector...
+[18:10:56] [main/INFO]: [STDOUT]: [Connector] Inited.
+[18:10:57] [main/INFO]: LWJGL Version: 3.2.2 build 10
+[18:10:59] [main/INFO]: [OptiFine] 
+[18:10:59] [main/INFO]: [OptiFine] OptiFine_1.14.4_HD_U_F4
+[18:10:59] [main/INFO]: [OptiFine] Build: 20191025-153543
+[18:10:59] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[18:10:59] [main/INFO]: [OptiFine] Java: 1.8.0_241, Oracle Corporation
+[18:10:59] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[18:10:59] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[18:10:59] [main/INFO]: [OptiFine] OpenGL: Intel(R) UHD Graphics 630, version 4.6.0 - Build 26.20.100.7637, Intel
+[18:10:59] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[18:10:59] [main/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[18:10:59] [main/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[18:10:59] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[18:10:59] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 - Build 26.20.100.7637
+[18:10:59] [main/INFO]: [Shaders] Vendor:  Intel
+[18:10:59] [main/INFO]: [Shaders] Renderer: Intel(R) UHD Graphics 630
+[18:10:59] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[18:10:59] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[18:10:59] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[18:10:59] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[18:10:59] [main/INFO]: [Shaders] Load shaders configuration.
+[18:10:59] [main/INFO]: [Shaders] Save shaders configuration.
+[18:10:59] [main/INFO]: [Shaders] No shaderpack loaded.
+[18:11:00] [VersionCheck/INFO]: [OptiFine] Version found: F2
+[18:11:00] [main/INFO]: Narrator library for x64 successfully loaded
+[18:11:01] [main/INFO]: [OptiFine] *** Reloading textures ***
+[18:11:01] [main/INFO]: [OptiFine] Resource packs: Default
+[18:11:03] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] Multitexture: false
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] Multipass connected textures: false
+[18:11:07] [Server-Worker-7/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[18:11:09] [Server-Worker-7/INFO]: [OptiFine] Mipmap levels: 4
+[18:11:10] [main/INFO]: OpenAL initialized.
+[18:11:10] [main/INFO]: Sound engine started
+[18:11:11] [main/INFO]: Created: 1024x512 textures-atlas
+[18:11:11] [main/INFO]: [OptiFine] Animated sprites: 33
+[18:11:11] [main/INFO]: Created: 256x256 textures/particle-atlas
+[18:11:11] [main/INFO]: Created: 256x256 textures/painting-atlas
+[18:11:11] [main/INFO]: Created: 128x128 textures/mob_effect-atlas
+[18:11:11] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[18:11:11] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[18:11:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:11:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:11:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:11:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:11:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:11:17] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[18:11:17] [Server thread/INFO]: Generating keypair
+[18:11:17] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:11:17] [Server thread/INFO]: Loaded 6 recipes
+[18:11:18] [Server thread/INFO]: Loaded 811 advancements
+[18:11:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:11:20] [main/INFO]: Preparing spawn area: 0%
+[18:11:20] [main/INFO]: Preparing spawn area: 0%
+[18:11:20] [main/INFO]: Preparing spawn area: 0%
+[18:11:20] [main/INFO]: Preparing spawn area: 0%
+[18:11:20] [main/INFO]: Preparing spawn area: 63%
+[18:11:20] [main/INFO]: Time elapsed: 2089 ms
+[18:11:20] [Server thread/INFO]: Changing view distance to 16, from 10
+[18:11:22] [Server thread/INFO]: Steven[local:E:f7f2663f] logged in with entity id 560 at (-685.8984452692355, 58.0, 145.94444032984364)
+[18:11:22] [Server thread/INFO]: Steven joined the game
+[18:11:23] [Server thread/INFO]: Saving and pausing game...
+[18:11:23] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:11:23] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:11:23] [main/INFO]: [STDOUT]: [TLSkinCape] Current Minecraft version is 1.14.4.
+[18:11:23] [main/INFO]: [STDOUT]: [TLSkinCape] OptiFine detected.
+[18:11:24] [main/INFO]: textures 'Steven' was added, skin: true,cape: false, max waiting: 2 ,during : 778 
+[18:11:24] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:11:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[18:11:38] [main/INFO]: Loaded 546 advancements
+[18:11:38] [Server thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[18:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[18:18:27] [Server thread/INFO]: Saving and pausing game...
+[18:18:27] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:18:27] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:18:28] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:21:02] [Server thread/INFO]: Saving and pausing game...
+[18:21:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:21:03] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:21:07] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5505ms or 110 ticks behind
+[18:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[18:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3839ms or 76 ticks behind
+[18:22:16] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[18:22:16] [main/INFO]: [CHAT] Steven was slain by Zombie Pigman
+[18:22:17] [Server thread/INFO]: Saving and pausing game...
+[18:22:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:22:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:22:19] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:22:22] [main/WARN]: Received passengers for unknown entity
+[18:22:28] [main/WARN]: Received passengers for unknown entity
+[18:23:11] [main/WARN]: Received passengers for unknown entity
+[18:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[18:23:34] [main/WARN]: Received passengers for unknown entity
+[18:25:35] [Server thread/INFO]: Steven burned to death
+[18:25:35] [main/INFO]: [CHAT] Steven burned to death
+[18:26:20] [Server thread/INFO]: Saving and pausing game...
+[18:26:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:26:20] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:26:21] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[18:29:18] [Server thread/INFO]: Saving and pausing game...
+[18:29:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:29:18] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:29:19] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[18:30:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[18:30:35] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[18:30:35] [main/INFO]: [CHAT] Steven was slain by Zombie Pigman
+[18:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[18:32:44] [Server thread/INFO]: Steven fell from a high place
+[18:32:44] [main/INFO]: [CHAT] Steven fell from a high place
+[18:35:09] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/10573, l='Island', x=-89.42, y=88.02, z=20.26]
+[18:35:24] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[18:35:24] [main/INFO]: [CHAT] Steven was slain by Zombie Pigman
+[18:35:26] [Server thread/INFO]: Saving and pausing game...
+[18:35:26] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:35:26] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:35:27] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:35:58] [Server thread/INFO]: Steven was slain by Zombie Pigman
+[18:35:58] [main/INFO]: [CHAT] Steven was slain by Zombie Pigman
+[18:36:00] [Server thread/INFO]: Saving and pausing game...
+[18:36:00] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:36:00] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:36:02] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:36:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
+[18:36:13] [Server thread/INFO]: Steven was blown up by Creeper
+[18:36:13] [main/INFO]: [CHAT] Steven was blown up by Creeper
+[18:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[18:40:16] [Server thread/INFO]: Saving and pausing game...
+[18:40:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:40:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:40:17] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[18:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[18:45:47] [Server thread/INFO]: Steven was slain by Enderman
+[18:45:47] [main/INFO]: [CHAT] Steven was slain by Enderman
+[18:45:48] [main/INFO]: [CHAT] Your home bed was missing or obstructed
+[18:45:48] [Server thread/INFO]: Saving and pausing game...
+[18:45:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[18:45:48] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[18:45:49] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[18:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[18:49:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[18:50:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[18:51:00] [Server thread/INFO]: Steven fell from a high place
+[18:51:00] [main/INFO]: [CHAT] Steven fell from a high place
+[18:51:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[18:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[18:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[18:58:10] [main/WARN]: Received passengers for unknown entity
+[18:58:13] [Server thread/INFO]: Steven fell from a high place
+[18:58:13] [main/INFO]: [CHAT] Steven fell from a high place
+[18:59:35] [main/WARN]: Received passengers for unknown entity
+[19:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3619ms or 72 ticks behind
+[19:02:57] [Server thread/INFO]: Saving and pausing game...
+[19:02:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:02:57] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:02:58] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:02:58] [Server thread/INFO]: Steven lost connection: Disconnected
+[19:02:58] [Server thread/INFO]: Steven left the game
+[19:02:58] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:02:58] [Server thread/INFO]: Stopping server
+[19:02:58] [Server thread/INFO]: Saving players
+[19:02:58] [Server thread/INFO]: Saving worlds
+[19:02:58] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_end
+[19:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:02:58] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:overworld
+[19:02:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[19:02:59] [Server thread/INFO]: Saving chunks for level 'Island'/minecraft:the_nether
+[19:02:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:02:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:02:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (Island): All chunks are saved
+[19:02:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:03:00] [main/INFO]: Stopping!
